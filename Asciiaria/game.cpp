@@ -13,6 +13,7 @@
 
 // Game includes.
 #include "game.h"
+#include "Tile.h"
 
 // Using the std namespace.
 using namespace std;
@@ -40,6 +41,10 @@ int main(int argc, char * argv[])
 	game_manager.startUp();
 	df::LogManager &log_manager = df::LogManager::getInstance();
 
+	// Make test tile.
+	//Tile testTile = Tile(DIRT);
+	//testTile.setPosition(df::Vector(8, 8));
+
 	// Load the game's level.
 	loadLevel();
 
@@ -57,7 +62,7 @@ int loadLevel() {
 	df::LogManager &log_manager = df::LogManager::getInstance();
 
 	// Array to store the map file's information.
-	int map_array[MAP_WIDTH][MAP_HEIGHT];
+	int map_array[MAP_HEIGHT][MAP_WIDTH];
 
 	// Get the file.
 	ifstream file("map.csv");
@@ -68,7 +73,7 @@ int loadLevel() {
 		return -1;
 	}
 
-	for (int row_counter = 0; row_counter < MAP_HEIGHT; row_counter++) {
+	for (int column_counter = 0; column_counter < MAP_WIDTH; column_counter++) {
 
 		// String for the line.
 		string line;
@@ -77,7 +82,7 @@ int loadLevel() {
 		getline(file, line);
 		istringstream sline(line);
 
-		for (int column_counter = 0; column_counter < MAP_WIDTH; column_counter++) {
+		for (int row_counter = 0; row_counter < MAP_HEIGHT; row_counter++) {
 
 			// String for the value.
 			string value;
@@ -94,19 +99,28 @@ int loadLevel() {
 	}
 
 	// Now the array will produce the map.
-	for (int row_counter = 0; row_counter < MAP_HEIGHT; row_counter++) {
+	for (int column_counter = 0; column_counter < MAP_WIDTH; column_counter++) {
 
-		for (int column_counter = 0; column_counter < MAP_WIDTH; column_counter++) {
+		for (int row_counter = 0; row_counter < MAP_HEIGHT; row_counter++) {
+
+			// Variable for current tile.
+			Tile *p_current_tile;
 
 			switch (map_array[row_counter][column_counter]) {
 
-				// If it's zero, it's air. Do nothing!
+				// If it's zero, it's air.
 			case 0:
+				p_current_tile = new Tile(AIR);
+				p_current_tile->setPosition(df::Vector(row_counter, column_counter));
+				log_manager.writeLog("This is air at (%f, %f).", p_current_tile->getPosition().getX(), p_current_tile->getPosition().getY());
 				break;
 
 				// If it's 1, it's dirt. Place the dirt!
 			case 1:
-				// TODO: Place dirt.
+				p_current_tile = new Tile(DIRT);
+				p_current_tile->setPosition(df::Vector(row_counter, column_counter));
+				log_manager.writeLog("This is dirt at (%f, %f).", p_current_tile->getPosition().getX(), p_current_tile->getPosition().getY());
+
 				break;
 			}
 		}
