@@ -1,1 +1,4 @@
-﻿
+﻿  Character.cpp
+c:\users\chris\desktop\asciiaria\asciiaria\character.cpp(11): warning C4305: '=': truncation from 'double' to 'float'
+  Asciiaria.vcxproj -> C:\Users\Chris\Desktop\Asciiaria\Debug\Asciiaria.exe
+  Asciiaria.vcxproj -> C:\Users\Chris\Desktop\Asciiaria\Debug\Asciiaria.pdb (Full PDB)
