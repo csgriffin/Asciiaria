@@ -2,12 +2,14 @@
 #include "LogManager.h"
 #include "GraphicsManager.h"
 #include "WorldManager.h"
+#include "ResourceManager.h"
 #include <iostream>
 
 Tile::Tile(Terrain init_tileType) {
 	df::Object();
 
 	tileType = init_tileType;
+	df::ResourceManager &rm = df::ResourceManager::getInstance();
 
 	switch (tileType)
 	{
@@ -15,6 +17,7 @@ Tile::Tile(Terrain init_tileType) {
 
 		// Set solidness to HARD.
 		setSolidness(df::HARD);
+		setSprite(rm.getSprite("dirt"));
 
 		break;
 
@@ -36,7 +39,7 @@ void Tile::setTileType(Terrain new_type) {
 	tileType = new_type;
 }
 
-void Tile::draw() {
+/*void Tile::draw() {
 
 	// Get the graphics manager.
 	df::GraphicsManager &graphics_manager = df::GraphicsManager::getInstance();
@@ -61,4 +64,4 @@ void Tile::draw() {
 	default:
 		break;
 	}
-}
+}*/
