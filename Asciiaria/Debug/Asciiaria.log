@@ -1,1 +1,6 @@
-﻿
+﻿  game.cpp
+c:\users\thomas lourenco\documents\visual studio 2015\projects\asciiaria\asciiaria\game.cpp(114): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thomas lourenco\documents\visual studio 2015\projects\asciiaria\asciiaria\game.cpp(121): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     Creating library C:\Users\Thomas Lourenco\Documents\Visual Studio 2015\Projects\Asciiaria\Debug\Asciiaria.lib and object C:\Users\Thomas Lourenco\Documents\Visual Studio 2015\Projects\Asciiaria\Debug\Asciiaria.exp
+game.obj : error LNK2019: unresolved external symbol "public: __thiscall Tile::Tile(enum Terrain)" (??0Tile@@QAE@W4Terrain@@@Z) referenced in function "int __cdecl loadLevel(void)" (?loadLevel@@YAHXZ)
+C:\Users\Thomas Lourenco\Documents\Visual Studio 2015\Projects\Asciiaria\Debug\Asciiaria.exe : fatal error LNK1120: 1 unresolved externals
