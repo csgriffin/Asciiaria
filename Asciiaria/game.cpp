@@ -15,6 +15,7 @@
 #include "game.h"
 #include "Tile.h"
 #include "Hero.h"
+#include "Monster.h"
 
 // Using the std namespace.
 using namespace std;
@@ -47,13 +48,20 @@ int main(int argc, char * argv[])
 	//Tile testTile = Tile(DIRT);
 	//testTile.setPosition(df::Vector(8, 8));
 
+	resource_manager.loadSprite("sprites/dot-spr.txt", "dirt");
+
 	// Load the game's level.
 	loadLevel();
 
 	Hero ourNobleProtagonist = Hero::Hero();
 	ourNobleProtagonist.setPosition(df::Vector(5, 5));
-	resource_manager.loadSprite("sprites/saucer-spr.txt", "saucer");
-	ourNobleProtagonist.setSprite(resource_manager.getSprite("saucer"));
+	resource_manager.loadSprite("sprites/hero-spr.txt", "hero");
+	ourNobleProtagonist.setSprite(resource_manager.getSprite("hero"));
+
+	Monster ourEvilVillain = Monster::Monster(ourNobleProtagonist);
+	ourEvilVillain.setPosition(df::Vector(20, 10));
+	resource_manager.loadSprite("sprites/monster-spr.txt", "monster");
+	ourEvilVillain.setSprite(resource_manager.getSprite("monster"));
 
 	game_manager.run();
 	return 0;

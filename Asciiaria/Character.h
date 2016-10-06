@@ -13,5 +13,6 @@ public:
 	float getGravity() const;
 	int eventHandler(const df::Event *p_e);
 	void jump();
+	int getJumpCount() const;
 };
 
