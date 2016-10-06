@@ -1,11 +1,7 @@
-# Log files
-*.log
-*.tlog
-
 # Visual Studio project files
 *.vcxproj
-*.VC.opendb
-*.VC.db
+*.vcxproj.filters
+*.vc.db
 
 # Compiled Object files
 *.slo
@@ -36,3 +32,20 @@
 *.exe
 *.out
 *.app
+Asciiaria.VC.VC.opendb
+Asciiaria/x64/Debug/Asciiaria.tlog/Asciiaria.lastbuildstate~HEAD
+.vs/Asciiaria/v14/.suo
+Asciiaria/map.csv
+Asciiaria/x64/Debug/Asciiaria.tlog/Asciiaria.lastbuildstate
+Asciiaria/x64/Debug/Asciiaria.tlog/CL.command.1.tlog
+Asciiaria/x64/Debug/Asciiaria.tlog/CL.read.1.tlog
+Asciiaria/x64/Debug/Asciiaria.tlog/CL.write.1.tlog
+Asciiaria/x64/Debug/Asciiaria.tlog/link-cvtres.read.1.tlog
+Asciiaria/x64/Debug/Asciiaria.tlog/link-cvtres.write.1.tlog
+Asciiaria/x64/Debug/Asciiaria.tlog/link-rc.read.1.tlog
+Asciiaria/x64/Debug/Asciiaria.tlog/link-rc.write.1.tlog
+Asciiaria/x64/Debug/Asciiaria.tlog/link.command.1.tlog
+Asciiaria/x64/Debug/Asciiaria.tlog/link.read.1.tlog
+Asciiaria/x64/Debug/Asciiaria.tlog/link.write.1.tlog
+Asciiaria/x64/Debug/Asciiaria.tlog/unsuccessfulbuild
+Asciiaria/x64/Debug/vc140.idb

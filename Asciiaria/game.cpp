@@ -14,6 +14,7 @@
 // Game includes.
 #include "game.h"
 #include "Tile.h"
+#include "Hero.h"
 
 // Using the std namespace.
 using namespace std;
@@ -40,6 +41,7 @@ int main(int argc, char * argv[])
 	df::GameManager &game_manager = df::GameManager::getInstance();
 	game_manager.startUp();
 	df::LogManager &log_manager = df::LogManager::getInstance();
+	df::ResourceManager &resource_manager = df::ResourceManager::getInstance();
 
 	// Make test tile.
 	//Tile testTile = Tile(DIRT);
@@ -47,6 +49,11 @@ int main(int argc, char * argv[])
 
 	// Load the game's level.
 	loadLevel();
+
+	Hero ourNobleProtagonist = Hero::Hero();
+	ourNobleProtagonist.setPosition(df::Vector(5, 5));
+	resource_manager.loadSprite("sprites/saucer-spr.txt", "saucer");
+	ourNobleProtagonist.setSprite(resource_manager.getSprite("saucer"));
 
 	game_manager.run();
 	return 0;
@@ -111,14 +118,14 @@ int loadLevel() {
 				// If it's zero, it's air.
 			case 0:
 				p_current_tile = new Tile(AIR);
-				p_current_tile->setPosition(df::Vector((float)row_counter, (float)column_counter));
+				p_current_tile->setPosition(df::Vector(row_counter, column_counter));
 				log_manager.writeLog("This is air at (%f, %f).", p_current_tile->getPosition().getX(), p_current_tile->getPosition().getY());
 				break;
 
 				// If it's 1, it's dirt. Place the dirt!
 			case 1:
 				p_current_tile = new Tile(DIRT);
-				p_current_tile->setPosition(df::Vector((float)row_counter, (float)column_counter));
+				p_current_tile->setPosition(df::Vector(row_counter, column_counter));
 				log_manager.writeLog("This is dirt at (%f, %f).", p_current_tile->getPosition().getX(), p_current_tile->getPosition().getY());
 
 				break;
