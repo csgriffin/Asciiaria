@@ -1,3 +1,6 @@
+# Visual Studio project files
+*.vcxproj
+
 # Compiled Object files
 *.slo
 *.lo
