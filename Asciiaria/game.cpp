@@ -14,6 +14,7 @@
 // Game includes.
 #include "game.h"
 #include "Tile.h"
+#include "Hero.h"
 
 // Using the std namespace.
 using namespace std;
@@ -40,6 +41,7 @@ int main(int argc, char * argv[])
 	df::GameManager &game_manager = df::GameManager::getInstance();
 	game_manager.startUp();
 	df::LogManager &log_manager = df::LogManager::getInstance();
+	df::ResourceManager &resource_manager = df::ResourceManager::getInstance();
 
 	// Make test tile.
 	//Tile testTile = Tile(DIRT);
@@ -47,6 +49,11 @@ int main(int argc, char * argv[])
 
 	// Load the game's level.
 	loadLevel();
+
+	Hero ourNobleProtagonist = Hero::Hero();
+	ourNobleProtagonist.setPosition(df::Vector(5, 5));
+	resource_manager.loadSprite("sprites/saucer-spr.txt", "saucer");
+	ourNobleProtagonist.setSprite(resource_manager.getSprite("saucer"));
 
 	game_manager.run();
 	return 0;

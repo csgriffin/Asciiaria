@@ -1,7 +1,4 @@
-﻿  game.cpp
-c:\users\chris\desktop\asciiaria\asciiaria\game.cpp(114): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-c:\users\chris\desktop\asciiaria\asciiaria\game.cpp(121): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-  Tile.cpp
-  Generating Code...
+﻿  Character.cpp
+c:\users\chris\desktop\asciiaria\asciiaria\character.cpp(10): warning C4305: '=': truncation from 'double' to 'float'
   Asciiaria.vcxproj -> C:\Users\Chris\Desktop\Asciiaria\Debug\Asciiaria.exe
   Asciiaria.vcxproj -> C:\Users\Chris\Desktop\Asciiaria\Debug\Asciiaria.pdb (Full PDB)
