@@ -1,5 +1,11 @@
+# Log files
+*.log
+*.tlog
+
 # Visual Studio project files
 *.vcxproj
+*.VC.opendb
+*.VC.db
 
 # Compiled Object files
 *.slo
