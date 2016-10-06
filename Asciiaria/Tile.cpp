@@ -5,7 +5,7 @@
 #include <iostream>
 
 Tile::Tile(Terrain init_tileType) {
-	df::Object::Object();
+	df::Object();
 
 	tileType = init_tileType;
 
@@ -45,7 +45,7 @@ void Tile::draw() {
 	df::LogManager &log_manager = df::LogManager::getInstance();
 
 	// Write log.
-	cout << "At the draw method with a " + tileType << endl;
+	//cout << "At the draw method with a " + tileType << endl;
 
 	switch (tileType)
 	{
