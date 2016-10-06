@@ -6,9 +6,9 @@
 #include "EventOut.h"
 
 
-Monster::Monster(Hero the_hero)
+Monster::Monster(Hero* the_hero)
 {
-	hero = &the_hero;
+	hero = the_hero;
 	Character();
 }
 
@@ -17,13 +17,14 @@ int Monster::eventHandler(const df::Event * p_e)
 	df::LogManager &lm = df::LogManager::getInstance();
 	lm.writeLog("Got to eventHandler");
 	if (p_e->getType() == df::STEP_EVENT) {
+		if (getJumpCount() == 0) {
+			if (hero->getPosition().getX() > getPosition().getX()) {
+				setVelocity(df::Vector(.2, 0));
+			} else if (hero->getPosition().getX() < getPosition().getX()) {
+				setVelocity(df::Vector(-.2, 0));
+			}
+		}
 		Character::eventHandler(p_e);
-		if (hero->getPosition().getX() > getPosition().getX()) {
-			setVelocity(df::Vector(.05, getVelocity().getY()));
-		}
-		if (hero->getPosition().getX() < getPosition().getX()) {
-			setVelocity(df::Vector(-.05, getVelocity().getY()));
-		}
 		return 1;
 	}
 	else {

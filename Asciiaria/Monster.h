@@ -9,7 +9,7 @@ private:
 	Monster();
 	Hero *hero;
 public:
-	Monster(Hero the_hero);
+	Monster(Hero* the_hero);
 	int Monster::eventHandler(const df::Event * p_e);
 };
 

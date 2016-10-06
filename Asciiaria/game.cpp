@@ -58,7 +58,7 @@ int main(int argc, char * argv[])
 	resource_manager.loadSprite("sprites/hero-spr.txt", "hero");
 	ourNobleProtagonist.setSprite(resource_manager.getSprite("hero"));
 
-	Monster ourEvilVillain = Monster::Monster(ourNobleProtagonist);
+	Monster ourEvilVillain = Monster::Monster(&ourNobleProtagonist);
 	ourEvilVillain.setPosition(df::Vector(20, 10));
 	resource_manager.loadSprite("sprites/monster-spr.txt", "monster");
 	ourEvilVillain.setSprite(resource_manager.getSprite("monster"));
