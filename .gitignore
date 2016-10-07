@@ -33,7 +33,7 @@
 *.out
 *.app
 Asciiaria.VC.VC.opendb
-Asciiaria/x64/Debug/Asciiaria.tlog/Asciiaria.lastbuildstate~HEAD
+Asciiaria/x64/Debug/Asciiaria.tlog/Asciiaria.lastbuildstate
 .vs/Asciiaria/v14/.suo
 Asciiaria/map.csv
 Asciiaria/x64/Debug/Asciiaria.tlog/Asciiaria.lastbuildstate
@@ -48,11 +48,8 @@ Asciiaria/x64/Debug/Asciiaria.tlog/link.command.1.tlog
 Asciiaria/x64/Debug/Asciiaria.tlog/link.read.1.tlog
 Asciiaria/x64/Debug/Asciiaria.tlog/link.write.1.tlog
 Asciiaria/x64/Debug/Asciiaria.tlog/unsuccessfulbuild
-<<<<<<< HEAD
 Asciiaria/x64/Debug/vc140.idb
-=======
-Asciiaria/x64/Debug/vc140.idb
->>>>>>> 98f55b7470cf80e75b35111c740554cd6c6e975f
 Asciiaria/Debug/Asciiaria.tlog/CL.read.1.tlog
 Asciiaria/Debug/Asciiaria.tlog/unsuccessfulbuild
 Asciiaria/Debug/vc140.idb
+Asciiaria/Asciiaria.vcxproj
