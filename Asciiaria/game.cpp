@@ -88,7 +88,7 @@ int loadLevel() {
 		return -1;
 	}
 
-	for (int column_counter = 0; column_counter < MAP_WIDTH; column_counter++) {
+	for (int row_counter = 0; row_counter < MAP_HEIGHT; row_counter++) {
 
 		// String for the line.
 		string line;
@@ -97,7 +97,7 @@ int loadLevel() {
 		getline(file, line);
 		istringstream sline(line);
 
-		for (int row_counter = 0; row_counter < MAP_HEIGHT; row_counter++) {
+		for (int column_counter = 0; column_counter < MAP_WIDTH; column_counter++) {
 
 			// String for the value.
 			string value;
@@ -109,7 +109,7 @@ int loadLevel() {
 			map_array[row_counter][column_counter] = atoi(value.c_str());
 
 			// Test code. As of 10/5/16 this code functions.
-			// log_manager.writeLog("Printing the value of (%d, %d), which is %d.", row_counter, column_counter, map_array[row_counter][column_counter]);
+			log_manager.writeLog("Printing the value of (%d, %d), which is %d.", row_counter, column_counter, map_array[row_counter][column_counter]);
 		}
 	}
 
@@ -126,14 +126,14 @@ int loadLevel() {
 				// If it's zero, it's air.
 			case 0:
 				p_current_tile = new Tile(AIR);
-				p_current_tile->setPosition(df::Vector(row_counter, column_counter));
+				p_current_tile->setPosition(df::Vector(column_counter, row_counter));
 				log_manager.writeLog("This is air at (%f, %f).", p_current_tile->getPosition().getX(), p_current_tile->getPosition().getY());
 				break;
 
 				// If it's 1, it's dirt. Place the dirt!
 			case 1:
 				p_current_tile = new Tile(DIRT);
-				p_current_tile->setPosition(df::Vector(row_counter, column_counter));
+				p_current_tile->setPosition(df::Vector(column_counter, row_counter));
 				log_manager.writeLog("This is dirt at (%f, %f).", p_current_tile->getPosition().getX(), p_current_tile->getPosition().getY());
 
 				break;

@@ -4,6 +4,7 @@
 #include "WorldManager.h"
 #include "ResourceManager.h"
 #include <iostream>
+#include "EventMouse.h"
 
 Tile::Tile(Terrain init_tileType) {
 	df::Object();
@@ -37,6 +38,47 @@ Terrain Tile::getTileType() const {
 
 void Tile::setTileType(Terrain new_type) {
 	tileType = new_type;
+}
+
+int Tile::eventHandler(const df::Event * p_e) {
+
+	if (p_e->getType() == df::MOUSE_EVENT) {
+
+		const df::EventMouse *p_mouse_event = dynamic_cast <const df::EventMouse *> (p_e);
+
+		if ((p_mouse_event->getMouseAction() == df::CLICKED) && (p_mouse_event->getMouseButton() == df::LEFT)) {
+
+			if (tileType == DIRT) {
+
+				// Get world manager.
+				df::WorldManager &world_manager = df::WorldManager::getInstance();
+				df::GraphicsManager &graphics_manager = df::GraphicsManager::getInstance();
+				df::LogManager &log_manager = df::LogManager::getInstance();
+
+				// Gets the charWidth and charHeight.
+				float charWidth = (float)graphics_manager.getHorizontalPixels() / (float)graphics_manager.getHorizontal();
+				float charHeight = (float)graphics_manager.getVerticalPixels() / (float)graphics_manager.getVertical();
+
+				// Apply spacesToPixels.
+				df::Vector mouse_tile(p_mouse_event->getMousePosition().getX() / charWidth, p_mouse_event->getMousePosition().getY() / charHeight);
+
+				// Check if this is the selected tile.
+				if (((int)getPosition().getX() == (int)mouse_tile.getX()) && ((int)getPosition().getY() == (int)mouse_tile.getY())) world_manager.markForDelete(this);
+
+				// Print out what was used.
+				log_manager.writeLog("Tile Position: %f, %f and Mouse Position: %f, %f", (int)getPosition().getX(), (int)getPosition().getY(),
+					(int)mouse_tile.getX(), (int)mouse_tile.getY());
+
+			}
+			else {
+				// nothing...
+			}
+		}
+
+		return 1;
+	}
+
+	return 0;
 }
 
 /*void Tile::draw() {

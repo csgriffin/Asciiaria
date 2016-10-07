@@ -25,4 +25,6 @@ public:
 	void setTileType(Terrain new_type);
 
 	//void draw();
+
+	int eventHandler(const df::Event * p_e);
 };

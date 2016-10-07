@@ -1,5 +1,3 @@
-﻿  Monster.cpp
-c:\users\chris\desktop\asciiaria\asciiaria\monster.cpp(22): warning C4305: 'argument': truncation from 'double' to 'float'
-c:\users\chris\desktop\asciiaria\asciiaria\monster.cpp(24): warning C4305: 'argument': truncation from 'double' to 'float'
-  Asciiaria.vcxproj -> C:\Users\Chris\Desktop\Asciiaria\Debug\Asciiaria.exe
-  Asciiaria.vcxproj -> C:\Users\Chris\Desktop\Asciiaria\Debug\Asciiaria.pdb (Full PDB)
+﻿  Tile.cpp
+  Asciiaria.vcxproj -> C:\Users\Thomas Lourenco\Documents\Visual Studio 2015\Projects\Asciiaria\Debug\Asciiaria.exe
+  Asciiaria.vcxproj -> C:\Users\Thomas Lourenco\Documents\Visual Studio 2015\Projects\Asciiaria\Debug\Asciiaria.pdb (Full PDB)
