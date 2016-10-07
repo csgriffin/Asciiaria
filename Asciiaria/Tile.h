@@ -24,5 +24,5 @@ public:
 
 	void setTileType(Terrain new_type);
 
-	void draw();
+	//void draw();
 };
