@@ -53,3 +53,5 @@ Asciiaria/Debug/Asciiaria.tlog/CL.read.1.tlog
 Asciiaria/Debug/Asciiaria.tlog/unsuccessfulbuild
 Asciiaria/Debug/vc140.idb
 Asciiaria/Asciiaria.vcxproj
+*.lastbuildstate
+*.idb
