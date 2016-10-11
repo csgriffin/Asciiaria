@@ -56,28 +56,23 @@ int Tile::eventHandler(const df::Event * p_e) {
 
 		const df::EventMouse *p_mouse_event = dynamic_cast <const df::EventMouse *> (p_e);
 
-		if ((p_mouse_event->getMouseAction() == df::CLICKED) && (p_mouse_event->getMouseButton() == df::LEFT)) {
+		if ((p_mouse_event->getMouseAction() == df::CLICKED) && (p_mouse_event->getMouseButton() == df::Mouse::LEFT)) {
+
+			df::LogManager &log_manager = df::LogManager::getInstance();
 
 			if (tileType == DIRT) {
 
 				// Get world manager.
 				df::WorldManager &world_manager = df::WorldManager::getInstance();
 				df::GraphicsManager &graphics_manager = df::GraphicsManager::getInstance();
-				df::LogManager &log_manager = df::LogManager::getInstance();
-
-				// Gets the charWidth and charHeight.
-				float charWidth = (float)graphics_manager.getHorizontalPixels() / (float)graphics_manager.getHorizontal();
-				float charHeight = (float)graphics_manager.getVerticalPixels() / (float)graphics_manager.getVertical();
-
-				// Apply spacesToPixels.
-				df::Vector mouse_tile(p_mouse_event->getMousePosition().getX() / charWidth, p_mouse_event->getMousePosition().getY() / charHeight);
 
 				// Check if this is the selected tile.
-				if (((int)getPosition().getX() == (int)mouse_tile.getX()) && ((int)getPosition().getY() == (int)mouse_tile.getY())) world_manager.markForDelete(this);
-
-				// Print out what was used.
-				log_manager.writeLog("Tile Position: %f, %f and Mouse Position: %f, %f", (int)getPosition().getX(), (int)getPosition().getY(),
-					(int)mouse_tile.getX(), (int)mouse_tile.getY());
+				if (((int)getPosition().getX() == (int)p_mouse_event->getMousePosition().getX()) && ((int)getPosition().getY() == (int)p_mouse_event->getMousePosition().getY())) {
+					//world_manager.markForDelete(this);
+					setTileType(AIR);
+					setSprite(nullptr);
+					setSolidness(df::SPECTRAL);
+				}
 
 			}
 			else {
