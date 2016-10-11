@@ -9,6 +9,8 @@
 #include "LogManager.h"
 #include "GameManager.h"
 #include "ResourceManager.h"
+#include "WorldManager.h"
+#include "Box.h"
 
 // Game includes.
 #include "Tile.h"
@@ -44,7 +46,7 @@ int main(int argc, char * argv[])
 	log_manager.setFlush(true);
 
 	// Show the dragonfly splash screen.
-	df::splash();
+	// df::splash();
 
 	// Load the game resources.
 	loadResources();
@@ -167,6 +169,12 @@ void populateWorld() {
 
 	// Make the hero. Also, save a pointer to it.
 	Hero* ourNobleProtagonist = new Hero;
+	df::WorldManager &w_m = df::WorldManager::getInstance();
+	w_m.setViewFollowing(ourNobleProtagonist);
+
+	df::Box theBox = df::Box::Box(df::Vector(), 1000, 100);
+
+	w_m.setBoundary(theBox);
 
 	// Make the monster. Also, save a pointer to it... For the heck of it.
 	Monster* ourEvilVillain = new Monster(ourNobleProtagonist);

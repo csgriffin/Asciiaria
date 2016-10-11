@@ -46,6 +46,8 @@ Monster::Monster(Hero* the_hero)
 	df::Vector p(15, world_manager.getBoundary().getVertical() / 4);
 	setPosition(p);
 
+	registerInterest(df::STEP_EVENT);
+
 	hero = the_hero;
 	Character();
 }
@@ -55,15 +57,21 @@ int Monster::eventHandler(const df::Event * p_e)
 	df::LogManager &lm = df::LogManager::getInstance();
 	lm.writeLog("Got to eventHandler");
 	if (p_e->getType() == df::STEP_EVENT) {
-		if (getJumpCount() == 0) {
-			if (hero->getPosition().getX() > getPosition().getX()) {
-				setVelocity(df::Vector(.2, 0));
-			}
-			else if (hero->getPosition().getX() < getPosition().getX()) {
-				setVelocity(df::Vector(-.2, 0));
+
+		const df::EventStep *p_s = dynamic_cast <const df::EventStep *> (p_e);
+		if ((p_s->getStepCount() % 2) == 1) {
+			if (getJumpCount() == 0) {
+				if (hero->getPosition().getX() > getPosition().getX()) {
+					setVelocity(df::Vector(.4, 0));
+				}
+				else if (hero->getPosition().getX() < getPosition().getX()) {
+					setVelocity(df::Vector(-.4, 0));
+				}
 			}
 		}
-		Character::eventHandler(p_e);
+		else {
+			Character::eventHandler(p_e);
+		}
 		return 1;
 	}
 	else {

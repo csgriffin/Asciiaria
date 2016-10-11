@@ -1,9 +1,14 @@
-frames 1
+frames 2
 width 3
 height 4
-color green
+color white
 \Y/
  | 
+ | 
+/ \
+end
+ Y 
+/|\
  | 
 / \
 end
