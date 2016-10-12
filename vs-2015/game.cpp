@@ -57,6 +57,9 @@ int main(int argc, char * argv[])
 	// Populate the world with our hero and the monster.
 	populateWorld();
 
+	df::ResourceManager &resource_manager = df::ResourceManager::getInstance();
+	resource_manager.getMusic("music")->play();
+
 	// Actually run the game.
 	game_manager.run();
 
@@ -162,6 +165,14 @@ void loadResources() {
 	// Load the sprite for the villain.
 	resource_manager.loadSprite("sprites/monster-spr.txt", "monster");
 
+	resource_manager.loadSprite("sprites/arrow-spr.txt", "arrow");
+
+	resource_manager.loadMusic("sounds/music.wav", "music");
+	resource_manager.loadMusic("sounds/end-music.wav", "endMusic");
+	resource_manager.loadSound("sounds/fire.wav", "fire");
+	resource_manager.loadSound("sounds/monster-death.wav", "monsterDeath");
+	resource_manager.loadSound("sounds/hero-death.wav", "heroDeath");
+
 }
 
 // Create the Hero and Monster.
@@ -177,5 +188,5 @@ void populateWorld() {
 	w_m.setBoundary(theBox);
 
 	// Make the monster. Also, save a pointer to it... For the heck of it.
-	Monster* ourEvilVillain = new Monster(ourNobleProtagonist);
+	//Monster* ourEvilVillain = new Monster(ourNobleProtagonist);
 }

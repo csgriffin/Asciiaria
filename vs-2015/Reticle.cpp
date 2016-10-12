@@ -58,7 +58,9 @@ void Reticle::draw() {
 
 	// Get the graphics manager.
 	df::GraphicsManager &graphics_manager = df::GraphicsManager::getInstance();
+	df::WorldManager &w_m = df::WorldManager::getInstance();
 
 	// Draw the character in position.
-	graphics_manager.drawCh(getPosition(), RETICLE_CHAR, df::RED);
+	df::Vector p = df::Vector(getPosition().getX() + w_m.getView().getCorner().getX(), getPosition().getY() + w_m.getView().getCorner().getY());
+	graphics_manager.drawCh(p, RETICLE_CHAR, df::RED);
 }

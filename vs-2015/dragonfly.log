@@ -1,0 +1,1949 @@
+17:14:58    0 ****************************************************
+17:14:58    0 ** Dragonfly version 4.2 **
+17:15:05    0 GameManager::run(): Can't keep up! frame_time 33 ms, split 250 ms
+17:15:05    1 GameManager::run(): Can't keep up! frame_time 33 ms, split 135 ms
+17:15:05    2 GameManager::run(): Can't keep up! frame_time 33 ms, split 119 ms
+17:15:05    3 GameManager::run(): Can't keep up! frame_time 33 ms, split 142 ms
+17:15:06    4 GameManager::run(): Can't keep up! frame_time 33 ms, split 412 ms
+17:15:06    5 GameManager::run(): Can't keep up! frame_time 33 ms, split 113 ms
+17:15:06    6 GameManager::run(): Can't keep up! frame_time 33 ms, split 198 ms
+17:15:06    7 GameManager::run(): Can't keep up! frame_time 33 ms, split 115 ms
+17:15:06    8 GameManager::run(): Can't keep up! frame_time 33 ms, split 114 ms
+17:15:06    9 GameManager::run(): Can't keep up! frame_time 33 ms, split 197 ms
+17:15:06   10 GameManager::run(): Can't keep up! frame_time 33 ms, split 128 ms
+17:15:06   11 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:06   12 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:07   13 GameManager::run(): Can't keep up! frame_time 33 ms, split 49 ms
+17:15:07   14 GameManager::run(): Can't keep up! frame_time 33 ms, split 49 ms
+17:15:07   15 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:07   16 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:07   17 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:07   18 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:07   19 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:07   20 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:07   21 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:07   22 GameManager::run(): Can't keep up! frame_time 33 ms, split 44 ms
+17:15:07   23 GameManager::run(): Can't keep up! frame_time 33 ms, split 49 ms
+17:15:07   24 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:07   25 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:07   26 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:07   27 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:07   28 GameManager::run(): Can't keep up! frame_time 33 ms, split 50 ms
+17:15:07   29 GameManager::run(): Can't keep up! frame_time 33 ms, split 54 ms
+17:15:07   30 GameManager::run(): Can't keep up! frame_time 33 ms, split 56 ms
+17:15:07   31 GameManager::run(): Can't keep up! frame_time 33 ms, split 54 ms
+17:15:07   32 GameManager::run(): Can't keep up! frame_time 33 ms, split 52 ms
+17:15:07   33 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:08   34 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:08   35 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:08   36 GameManager::run(): Can't keep up! frame_time 33 ms, split 49 ms
+17:15:08   37 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:08   38 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:08   39 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:08   40 GameManager::run(): Can't keep up! frame_time 33 ms, split 49 ms
+17:15:08   41 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:08   42 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:08   43 GameManager::run(): Can't keep up! frame_time 33 ms, split 44 ms
+17:15:08   44 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:08   45 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:08   46 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:08   47 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:08   48 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:08   49 GameManager::run(): Can't keep up! frame_time 33 ms, split 51 ms
+17:15:08   50 GameManager::run(): Can't keep up! frame_time 33 ms, split 51 ms
+17:15:08   51 GameManager::run(): Can't keep up! frame_time 33 ms, split 50 ms
+17:15:08   52 GameManager::run(): Can't keep up! frame_time 33 ms, split 50 ms
+17:15:08   53 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:08   54 GameManager::run(): Can't keep up! frame_time 33 ms, split 49 ms
+17:15:09   55 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:09   56 GameManager::run(): Can't keep up! frame_time 33 ms, split 51 ms
+17:15:09   57 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:09   58 GameManager::run(): Can't keep up! frame_time 33 ms, split 49 ms
+17:15:09   59 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:09   60 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:09   61 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:09   62 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:09   63 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:09   64 GameManager::run(): Can't keep up! frame_time 33 ms, split 44 ms
+17:15:09   65 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:09   66 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:09   67 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:09   68 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:09   69 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:09   70 GameManager::run(): Can't keep up! frame_time 33 ms, split 51 ms
+17:15:09   71 GameManager::run(): Can't keep up! frame_time 33 ms, split 52 ms
+17:15:09   72 GameManager::run(): Can't keep up! frame_time 33 ms, split 50 ms
+17:15:09   73 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:09   74 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:09   75 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:10   76 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:10   77 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:10   78 GameManager::run(): Can't keep up! frame_time 33 ms, split 51 ms
+17:15:10   79 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:10   80 GameManager::run(): Can't keep up! frame_time 33 ms, split 54 ms
+17:15:10   81 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:10   82 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:10   83 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:10   84 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:10   85 GameManager::run(): Can't keep up! frame_time 33 ms, split 50 ms
+17:15:10   86 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:10   87 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:10   88 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:10   89 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:10   90 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:10   91 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:10   92 GameManager::run(): Can't keep up! frame_time 33 ms, split 53 ms
+17:15:10   93 GameManager::run(): Can't keep up! frame_time 33 ms, split 51 ms
+17:15:10   94 GameManager::run(): Can't keep up! frame_time 33 ms, split 52 ms
+17:15:10   95 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:10   96 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:11   97 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:11   98 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:11   99 GameManager::run(): Can't keep up! frame_time 33 ms, split 49 ms
+17:15:11  100 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:11  101 Got to eventHandler
+17:15:11  101 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:11  102 Got to eventHandler
+17:15:11  102 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:11  103 Got to eventHandler
+17:15:11  103 GameManager::run(): Can't keep up! frame_time 33 ms, split 49 ms
+17:15:11  104 Got to eventHandler
+17:15:11  104 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:11  105 Got to eventHandler
+17:15:11  105 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:11  106 Got to eventHandler
+17:15:11  106 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:11  107 Got to eventHandler
+17:15:11  107 GameManager::run(): Can't keep up! frame_time 33 ms, split 50 ms
+17:15:11  108 Got to eventHandler
+17:15:11  108 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:11  109 Got to eventHandler
+17:15:11  109 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:11  110 Got to eventHandler
+17:15:11  110 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:11  111 Got to eventHandler
+17:15:11  111 GameManager::run(): Can't keep up! frame_time 33 ms, split 51 ms
+17:15:11  112 Got to eventHandler
+17:15:11  112 GameManager::run(): Can't keep up! frame_time 33 ms, split 52 ms
+17:15:11  113 Got to eventHandler
+17:15:11  113 GameManager::run(): Can't keep up! frame_time 33 ms, split 53 ms
+17:15:11  114 Got to eventHandler
+17:15:11  114 GameManager::run(): Can't keep up! frame_time 33 ms, split 49 ms
+17:15:11  115 Got to eventHandler
+17:15:11  115 GameManager::run(): Can't keep up! frame_time 33 ms, split 59 ms
+17:15:11  116 Got to eventHandler
+17:15:11  116 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:11  117 Got to eventHandler
+17:15:11  117 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:12  118 Got to eventHandler
+17:15:12  118 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:12  119 Got to eventHandler
+17:15:12  119 GameManager::run(): Can't keep up! frame_time 33 ms, split 52 ms
+17:15:12  120 Got to eventHandler
+17:15:12  120 GameManager::run(): Can't keep up! frame_time 33 ms, split 49 ms
+17:15:12  121 Got to eventHandler
+17:15:12  121 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:12  122 Got to eventHandler
+17:15:12  122 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:12  123 Got to eventHandler
+17:15:12  123 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:12  124 Got to eventHandler
+17:15:12  124 GameManager::run(): Can't keep up! frame_time 33 ms, split 50 ms
+17:15:12  125 Got to eventHandler
+17:15:12  125 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:12  126 Got to eventHandler
+17:15:12  126 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:13  127 Got to eventHandler
+17:15:13  127 GameManager::run(): Can't keep up! frame_time 33 ms, split 591 ms
+17:15:13  128 Got to eventHandler
+17:15:13  128 GameManager::run(): Can't keep up! frame_time 33 ms, split 441 ms
+17:15:13  129 Got to eventHandler
+17:15:13  129 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:13  130 Got to eventHandler
+17:15:13  130 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:13  131 Got to eventHandler
+17:15:13  131 GameManager::run(): Can't keep up! frame_time 33 ms, split 49 ms
+17:15:13  132 Got to eventHandler
+17:15:13  132 GameManager::run(): Can't keep up! frame_time 33 ms, split 62 ms
+17:15:13  133 Got to eventHandler
+17:15:13  133 GameManager::run(): Can't keep up! frame_time 33 ms, split 148 ms
+17:15:13  134 Got to eventHandler
+17:15:13  134 GameManager::run(): Can't keep up! frame_time 33 ms, split 88 ms
+17:15:13  135 Got to eventHandler
+17:15:13  135 GameManager::run(): Can't keep up! frame_time 33 ms, split 61 ms
+17:15:14  136 Got to eventHandler
+17:15:14  136 GameManager::run(): Can't keep up! frame_time 33 ms, split 49 ms
+17:15:14  137 Got to eventHandler
+17:15:14  137 GameManager::run(): Can't keep up! frame_time 33 ms, split 63 ms
+17:15:14  138 Got to eventHandler
+17:15:14  138 GameManager::run(): Can't keep up! frame_time 33 ms, split 73 ms
+17:15:14  139 Got to eventHandler
+17:15:14  139 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:14  140 Got to eventHandler
+17:15:14  140 GameManager::run(): Can't keep up! frame_time 33 ms, split 130 ms
+17:15:14  141 Got to eventHandler
+17:15:14  141 GameManager::run(): Can't keep up! frame_time 33 ms, split 73 ms
+17:15:14  142 Got to eventHandler
+17:15:14  142 GameManager::run(): Can't keep up! frame_time 33 ms, split 63 ms
+17:15:14  143 Got to eventHandler
+17:15:14  143 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:14  144 Got to eventHandler
+17:15:14  144 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:14  145 Got to eventHandler
+17:15:14  145 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:14  146 Got to eventHandler
+17:15:14  146 GameManager::run(): Can't keep up! frame_time 33 ms, split 90 ms
+17:15:14  147 Got to eventHandler
+17:15:14  147 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:14  148 Got to eventHandler
+17:15:14  148 GameManager::run(): Can't keep up! frame_time 33 ms, split 52 ms
+17:15:14  149 Got to eventHandler
+17:15:14  149 GameManager::run(): Can't keep up! frame_time 33 ms, split 52 ms
+17:15:14  150 Got to eventHandler
+17:15:14  150 GameManager::run(): Can't keep up! frame_time 33 ms, split 79 ms
+17:15:14  151 Got to eventHandler
+17:15:14  151 GameManager::run(): Can't keep up! frame_time 33 ms, split 49 ms
+17:15:15  152 Got to eventHandler
+17:15:15  152 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:15  153 Got to eventHandler
+17:15:15  153 GameManager::run(): Can't keep up! frame_time 33 ms, split 74 ms
+17:15:15  154 Got to eventHandler
+17:15:15  154 GameManager::run(): Can't keep up! frame_time 33 ms, split 63 ms
+17:15:15  155 Got to eventHandler
+17:15:15  155 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:15  156 Got to eventHandler
+17:15:15  156 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:15  157 Got to eventHandler
+17:15:15  157 GameManager::run(): Can't keep up! frame_time 33 ms, split 165 ms
+17:15:15  158 Got to eventHandler
+17:15:15  158 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:15  159 Got to eventHandler
+17:15:15  159 GameManager::run(): Can't keep up! frame_time 33 ms, split 49 ms
+17:15:15  160 Got to eventHandler
+17:15:15  160 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:15  161 Got to eventHandler
+17:15:15  161 GameManager::run(): Can't keep up! frame_time 33 ms, split 62 ms
+17:15:15  162 Got to eventHandler
+17:15:15  162 GameManager::run(): Can't keep up! frame_time 33 ms, split 62 ms
+17:15:15  163 Got to eventHandler
+17:15:15  163 GameManager::run(): Can't keep up! frame_time 33 ms, split 137 ms
+17:15:15  164 Got to eventHandler
+17:15:15  164 GameManager::run(): Can't keep up! frame_time 33 ms, split 123 ms
+17:15:16  165 Got to eventHandler
+17:15:16  165 GameManager::run(): Can't keep up! frame_time 33 ms, split 63 ms
+17:15:16  166 Got to eventHandler
+17:15:16  166 GameManager::run(): Can't keep up! frame_time 33 ms, split 61 ms
+17:15:16  167 Got to eventHandler
+17:15:16  167 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:16  168 Got to eventHandler
+17:15:16  168 GameManager::run(): Can't keep up! frame_time 33 ms, split 76 ms
+17:15:16  169 Got to eventHandler
+17:15:16  169 GameManager::run(): Can't keep up! frame_time 33 ms, split 61 ms
+17:15:16  170 Got to eventHandler
+17:15:16  170 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:16  171 Got to eventHandler
+17:15:16  171 GameManager::run(): Can't keep up! frame_time 33 ms, split 74 ms
+17:15:16  172 Got to eventHandler
+17:15:16  172 GameManager::run(): Can't keep up! frame_time 33 ms, split 66 ms
+17:15:16  173 Got to eventHandler
+17:15:16  173 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:16  174 Got to eventHandler
+17:15:16  174 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:16  175 Got to eventHandler
+17:15:16  175 GameManager::run(): Can't keep up! frame_time 33 ms, split 61 ms
+17:15:16  176 Got to eventHandler
+17:15:16  176 GameManager::run(): Can't keep up! frame_time 33 ms, split 49 ms
+17:15:16  177 Got to eventHandler
+17:15:16  177 GameManager::run(): Can't keep up! frame_time 33 ms, split 50 ms
+17:15:16  178 Got to eventHandler
+17:15:16  178 GameManager::run(): Can't keep up! frame_time 33 ms, split 80 ms
+17:15:16  179 Got to eventHandler
+17:15:16  179 GameManager::run(): Can't keep up! frame_time 33 ms, split 57 ms
+17:15:16  180 Got to eventHandler
+17:15:16  180 GameManager::run(): Can't keep up! frame_time 33 ms, split 50 ms
+17:15:17  181 Got to eventHandler
+17:15:17  181 GameManager::run(): Can't keep up! frame_time 33 ms, split 482 ms
+17:15:17  182 Got to eventHandler
+17:15:17  182 GameManager::run(): Can't keep up! frame_time 33 ms, split 85 ms
+17:15:17  183 Got to eventHandler
+17:15:17  183 GameManager::run(): Can't keep up! frame_time 33 ms, split 64 ms
+17:15:17  184 Got to eventHandler
+17:15:17  184 GameManager::run(): Can't keep up! frame_time 33 ms, split 59 ms
+17:15:17  185 Got to eventHandler
+17:15:17  185 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:17  186 Got to eventHandler
+17:15:17  186 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:18  187 Got to eventHandler
+17:15:18  187 GameManager::run(): Can't keep up! frame_time 33 ms, split 462 ms
+17:15:18  188 Got to eventHandler
+17:15:18  188 GameManager::run(): Can't keep up! frame_time 33 ms, split 62 ms
+17:15:18  189 Got to eventHandler
+17:15:18  189 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:18  190 Got to eventHandler
+17:15:18  190 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:18  191 Got to eventHandler
+17:15:18  191 GameManager::run(): Can't keep up! frame_time 33 ms, split 50 ms
+17:15:18  192 Got to eventHandler
+17:15:18  192 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:18  193 Got to eventHandler
+17:15:18  193 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:18  194 Got to eventHandler
+17:15:18  194 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:18  195 Got to eventHandler
+17:15:18  195 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:18  196 Got to eventHandler
+17:15:18  196 GameManager::run(): Can't keep up! frame_time 33 ms, split 62 ms
+17:15:18  197 Got to eventHandler
+17:15:18  197 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:18  198 Got to eventHandler
+17:15:18  198 GameManager::run(): Can't keep up! frame_time 33 ms, split 49 ms
+17:15:18  199 Got to eventHandler
+17:15:18  199 GameManager::run(): Can't keep up! frame_time 33 ms, split 53 ms
+17:15:18  200 Got to eventHandler
+17:15:18  200 GameManager::run(): Can't keep up! frame_time 33 ms, split 85 ms
+17:15:18  201 Got to eventHandler
+17:15:18  201 GameManager::run(): Can't keep up! frame_time 33 ms, split 68 ms
+17:15:18  202 Got to eventHandler
+17:15:18  202 Got to eventHandler
+17:15:18  202 GameManager::run(): Can't keep up! frame_time 33 ms, split 51 ms
+17:15:18  203 Got to eventHandler
+17:15:18  203 Got to eventHandler
+17:15:19  203 GameManager::run(): Can't keep up! frame_time 33 ms, split 54 ms
+17:15:19  204 Got to eventHandler
+17:15:19  204 Got to eventHandler
+17:15:19  204 GameManager::run(): Can't keep up! frame_time 33 ms, split 50 ms
+17:15:19  205 Got to eventHandler
+17:15:19  205 Got to eventHandler
+17:15:19  205 GameManager::run(): Can't keep up! frame_time 33 ms, split 52 ms
+17:15:19  206 Got to eventHandler
+17:15:19  206 Got to eventHandler
+17:15:19  206 GameManager::run(): Can't keep up! frame_time 33 ms, split 52 ms
+17:15:19  207 Got to eventHandler
+17:15:19  207 Got to eventHandler
+17:15:19  207 GameManager::run(): Can't keep up! frame_time 33 ms, split 53 ms
+17:15:19  208 Got to eventHandler
+17:15:19  208 Got to eventHandler
+17:15:19  208 GameManager::run(): Can't keep up! frame_time 33 ms, split 52 ms
+17:15:19  209 Got to eventHandler
+17:15:19  209 Got to eventHandler
+17:15:19  209 GameManager::run(): Can't keep up! frame_time 33 ms, split 50 ms
+17:15:19  210 Got to eventHandler
+17:15:19  210 Got to eventHandler
+17:15:19  210 GameManager::run(): Can't keep up! frame_time 33 ms, split 50 ms
+17:15:19  211 Got to eventHandler
+17:15:19  211 Got to eventHandler
+17:15:19  211 GameManager::run(): Can't keep up! frame_time 33 ms, split 469 ms
+17:15:19  212 Got to eventHandler
+17:15:19  212 Got to eventHandler
+17:15:19  212 GameManager::run(): Can't keep up! frame_time 33 ms, split 56 ms
+17:15:19  213 Got to eventHandler
+17:15:19  213 Got to eventHandler
+17:15:19  213 GameManager::run(): Can't keep up! frame_time 33 ms, split 52 ms
+17:15:19  214 Got to eventHandler
+17:15:19  214 Got to eventHandler
+17:15:19  214 GameManager::run(): Can't keep up! frame_time 33 ms, split 50 ms
+17:15:20  215 Got to eventHandler
+17:15:20  215 Got to eventHandler
+17:15:20  215 GameManager::run(): Can't keep up! frame_time 33 ms, split 52 ms
+17:15:20  216 Got to eventHandler
+17:15:20  216 Got to eventHandler
+17:15:20  216 GameManager::run(): Can't keep up! frame_time 33 ms, split 52 ms
+17:15:20  217 Got to eventHandler
+17:15:20  217 Got to eventHandler
+17:15:20  217 GameManager::run(): Can't keep up! frame_time 33 ms, split 50 ms
+17:15:20  218 Got to eventHandler
+17:15:20  218 Got to eventHandler
+17:15:20  218 GameManager::run(): Can't keep up! frame_time 33 ms, split 76 ms
+17:15:20  219 Got to eventHandler
+17:15:20  219 Got to eventHandler
+17:15:20  219 GameManager::run(): Can't keep up! frame_time 33 ms, split 53 ms
+17:15:20  220 Got to eventHandler
+17:15:20  220 Got to eventHandler
+17:15:20  220 GameManager::run(): Can't keep up! frame_time 33 ms, split 51 ms
+17:15:20  221 Got to eventHandler
+17:15:20  221 Got to eventHandler
+17:15:20  221 GameManager::run(): Can't keep up! frame_time 33 ms, split 50 ms
+17:15:20  222 Got to eventHandler
+17:15:20  222 Got to eventHandler
+17:15:20  222 GameManager::run(): Can't keep up! frame_time 33 ms, split 50 ms
+17:15:20  223 Got to eventHandler
+17:15:20  223 Got to eventHandler
+17:15:20  223 GameManager::run(): Can't keep up! frame_time 33 ms, split 53 ms
+17:15:20  224 Got to eventHandler
+17:15:20  224 Got to eventHandler
+17:15:20  224 GameManager::run(): Can't keep up! frame_time 33 ms, split 51 ms
+17:15:20  225 Got to eventHandler
+17:15:20  225 Got to eventHandler
+17:15:20  225 GameManager::run(): Can't keep up! frame_time 33 ms, split 50 ms
+17:15:20  226 Got to eventHandler
+17:15:20  226 Got to eventHandler
+17:15:20  226 GameManager::run(): Can't keep up! frame_time 33 ms, split 50 ms
+17:15:20  227 Got to eventHandler
+17:15:20  227 SceneGraph::removeObject(): error removing object!  Pointer is 09B6E4B8.
+
+17:15:20  227 Got to eventHandler
+17:15:20  227 GameManager::run(): Can't keep up! frame_time 33 ms, split 52 ms
+17:15:20  228 Got to eventHandler
+17:15:20  228 GameManager::run(): Can't keep up! frame_time 33 ms, split 51 ms
+17:15:20  229 Got to eventHandler
+17:15:20  229 GameManager::run(): Can't keep up! frame_time 33 ms, split 51 ms
+17:15:20  230 Got to eventHandler
+17:15:20  230 GameManager::run(): Can't keep up! frame_time 33 ms, split 53 ms
+17:15:20  231 Got to eventHandler
+17:15:20  231 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:20  232 Got to eventHandler
+17:15:20  232 GameManager::run(): Can't keep up! frame_time 33 ms, split 52 ms
+17:15:20  233 Got to eventHandler
+17:15:20  233 GameManager::run(): Can't keep up! frame_time 33 ms, split 49 ms
+17:15:21  234 Got to eventHandler
+17:15:21  234 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:21  235 Got to eventHandler
+17:15:21  235 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:21  236 Got to eventHandler
+17:15:21  236 GameManager::run(): Can't keep up! frame_time 33 ms, split 49 ms
+17:15:21  237 Got to eventHandler
+17:15:21  237 GameManager::run(): Can't keep up! frame_time 33 ms, split 50 ms
+17:15:21  238 Got to eventHandler
+17:15:21  238 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:21  239 Got to eventHandler
+17:15:21  239 GameManager::run(): Can't keep up! frame_time 33 ms, split 50 ms
+17:15:21  240 Got to eventHandler
+17:15:21  240 GameManager::run(): Can't keep up! frame_time 33 ms, split 296 ms
+17:15:21  241 Got to eventHandler
+17:15:21  241 GameManager::run(): Can't keep up! frame_time 33 ms, split 73 ms
+17:15:21  242 Got to eventHandler
+17:15:21  242 GameManager::run(): Can't keep up! frame_time 33 ms, split 199 ms
+17:15:22  243 Got to eventHandler
+17:15:22  243 GameManager::run(): Can't keep up! frame_time 33 ms, split 185 ms
+17:15:22  244 Got to eventHandler
+17:15:22  244 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:22  245 Got to eventHandler
+17:15:22  245 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:22  246 Got to eventHandler
+17:15:22  246 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:22  247 Got to eventHandler
+17:15:22  247 GameManager::run(): Can't keep up! frame_time 33 ms, split 50 ms
+17:15:22  248 Got to eventHandler
+17:15:22  248 GameManager::run(): Can't keep up! frame_time 33 ms, split 61 ms
+17:15:22  249 Got to eventHandler
+17:15:22  249 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:22  250 Got to eventHandler
+17:15:22  250 GameManager::run(): Can't keep up! frame_time 33 ms, split 61 ms
+17:15:22  251 Got to eventHandler
+17:15:22  251 GameManager::run(): Can't keep up! frame_time 33 ms, split 50 ms
+17:15:22  252 Got to eventHandler
+17:15:22  252 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:22  253 Got to eventHandler
+17:15:22  253 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:22  254 Got to eventHandler
+17:15:22  254 GameManager::run(): Can't keep up! frame_time 33 ms, split 74 ms
+17:15:22  255 Got to eventHandler
+17:15:22  255 GameManager::run(): Can't keep up! frame_time 33 ms, split 62 ms
+17:15:22  256 Got to eventHandler
+17:15:22  256 GameManager::run(): Can't keep up! frame_time 33 ms, split 53 ms
+17:15:22  257 Got to eventHandler
+17:15:22  257 GameManager::run(): Can't keep up! frame_time 33 ms, split 52 ms
+17:15:22  258 Got to eventHandler
+17:15:22  258 GameManager::run(): Can't keep up! frame_time 33 ms, split 59 ms
+17:15:22  259 Got to eventHandler
+17:15:22  259 GameManager::run(): Can't keep up! frame_time 33 ms, split 52 ms
+17:15:22  260 Got to eventHandler
+17:15:22  260 GameManager::run(): Can't keep up! frame_time 33 ms, split 50 ms
+17:15:22  261 Got to eventHandler
+17:15:22  261 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:23  262 Got to eventHandler
+17:15:23  262 GameManager::run(): Can't keep up! frame_time 33 ms, split 116 ms
+17:15:23  263 Got to eventHandler
+17:15:23  263 GameManager::run(): Can't keep up! frame_time 33 ms, split 61 ms
+17:15:23  264 Got to eventHandler
+17:15:23  264 GameManager::run(): Can't keep up! frame_time 33 ms, split 59 ms
+17:15:23  265 Got to eventHandler
+17:15:23  265 GameManager::run(): Can't keep up! frame_time 33 ms, split 51 ms
+17:15:23  266 Got to eventHandler
+17:15:23  266 GameManager::run(): Can't keep up! frame_time 33 ms, split 49 ms
+17:15:23  267 Got to eventHandler
+17:15:23  267 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:23  268 Got to eventHandler
+17:15:23  268 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:23  269 Got to eventHandler
+17:15:23  269 GameManager::run(): Can't keep up! frame_time 33 ms, split 75 ms
+17:15:23  270 Got to eventHandler
+17:15:23  270 GameManager::run(): Can't keep up! frame_time 33 ms, split 61 ms
+17:15:23  271 Got to eventHandler
+17:15:23  271 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:23  272 Got to eventHandler
+17:15:23  272 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:23  273 Got to eventHandler
+17:15:23  273 GameManager::run(): Can't keep up! frame_time 33 ms, split 50 ms
+17:15:23  274 Got to eventHandler
+17:15:23  274 GameManager::run(): Can't keep up! frame_time 33 ms, split 54 ms
+17:15:23  275 Got to eventHandler
+17:15:23  275 GameManager::run(): Can't keep up! frame_time 33 ms, split 50 ms
+17:15:24  276 Got to eventHandler
+17:15:24  276 GameManager::run(): Can't keep up! frame_time 33 ms, split 417 ms
+17:15:24  277 Got to eventHandler
+17:15:24  277 GameManager::run(): Can't keep up! frame_time 33 ms, split 196 ms
+17:15:24  278 Got to eventHandler
+17:15:24  278 GameManager::run(): Can't keep up! frame_time 33 ms, split 571 ms
+17:15:25  279 Got to eventHandler
+17:15:25  279 GameManager::run(): Can't keep up! frame_time 33 ms, split 85 ms
+17:15:25  280 Got to eventHandler
+17:15:25  280 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:25  281 Got to eventHandler
+17:15:25  281 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:25  282 Got to eventHandler
+17:15:25  282 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:25  283 Got to eventHandler
+17:15:25  283 GameManager::run(): Can't keep up! frame_time 33 ms, split 75 ms
+17:15:25  284 Got to eventHandler
+17:15:25  284 GameManager::run(): Can't keep up! frame_time 33 ms, split 62 ms
+17:15:25  285 Got to eventHandler
+17:15:25  285 GameManager::run(): Can't keep up! frame_time 33 ms, split 54 ms
+17:15:25  286 Got to eventHandler
+17:15:25  286 GameManager::run(): Can't keep up! frame_time 33 ms, split 49 ms
+17:15:25  287 Got to eventHandler
+17:15:25  287 GameManager::run(): Can't keep up! frame_time 33 ms, split 49 ms
+17:15:25  288 Got to eventHandler
+17:15:25  288 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:26  289 Got to eventHandler
+17:15:26  289 GameManager::run(): Can't keep up! frame_time 33 ms, split 516 ms
+17:15:26  290 Got to eventHandler
+17:15:26  290 GameManager::run(): Can't keep up! frame_time 33 ms, split 50 ms
+17:15:26  291 Got to eventHandler
+17:15:26  291 GameManager::run(): Can't keep up! frame_time 33 ms, split 61 ms
+17:15:26  292 Got to eventHandler
+17:15:26  292 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:26  293 Got to eventHandler
+17:15:26  293 GameManager::run(): Can't keep up! frame_time 33 ms, split 52 ms
+17:15:26  294 Got to eventHandler
+17:15:26  294 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:26  295 Got to eventHandler
+17:15:26  295 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:26  296 Got to eventHandler
+17:15:26  296 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:26  297 Got to eventHandler
+17:15:26  297 GameManager::run(): Can't keep up! frame_time 33 ms, split 51 ms
+17:15:26  298 Got to eventHandler
+17:15:26  298 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:26  299 Got to eventHandler
+17:15:26  299 GameManager::run(): Can't keep up! frame_time 33 ms, split 420 ms
+17:15:27  300 Got to eventHandler
+17:15:27  300 GameManager::run(): Can't keep up! frame_time 33 ms, split 75 ms
+17:15:27  301 Got to eventHandler
+17:15:27  301 GameManager::run(): Can't keep up! frame_time 33 ms, split 51 ms
+17:15:27  302 Got to eventHandler
+17:15:27  302 GameManager::run(): Can't keep up! frame_time 33 ms, split 94 ms
+17:15:27  303 Got to eventHandler
+17:15:27  303 Got to eventHandler
+17:15:27  303 GameManager::run(): Can't keep up! frame_time 33 ms, split 62 ms
+17:15:27  304 Got to eventHandler
+17:15:27  304 Got to eventHandler
+17:15:27  304 GameManager::run(): Can't keep up! frame_time 33 ms, split 51 ms
+17:15:27  305 Got to eventHandler
+17:15:27  305 Got to eventHandler
+17:15:27  305 GameManager::run(): Can't keep up! frame_time 33 ms, split 53 ms
+17:15:27  306 Got to eventHandler
+17:15:27  306 Got to eventHandler
+17:15:27  306 GameManager::run(): Can't keep up! frame_time 33 ms, split 54 ms
+17:15:27  307 Got to eventHandler
+17:15:27  307 Got to eventHandler
+17:15:27  307 GameManager::run(): Can't keep up! frame_time 33 ms, split 50 ms
+17:15:27  308 Got to eventHandler
+17:15:27  308 Got to eventHandler
+17:15:27  308 GameManager::run(): Can't keep up! frame_time 33 ms, split 51 ms
+17:15:27  309 Got to eventHandler
+17:15:27  309 Got to eventHandler
+17:15:27  309 GameManager::run(): Can't keep up! frame_time 33 ms, split 119 ms
+17:15:27  310 Got to eventHandler
+17:15:27  310 Got to eventHandler
+17:15:27  310 GameManager::run(): Can't keep up! frame_time 33 ms, split 65 ms
+17:15:27  311 Got to eventHandler
+17:15:27  311 Got to eventHandler
+17:15:27  311 GameManager::run(): Can't keep up! frame_time 33 ms, split 51 ms
+17:15:27  312 Got to eventHandler
+17:15:27  312 Got to eventHandler
+17:15:27  312 GameManager::run(): Can't keep up! frame_time 33 ms, split 61 ms
+17:15:27  313 Got to eventHandler
+17:15:27  313 Got to eventHandler
+17:15:27  313 GameManager::run(): Can't keep up! frame_time 33 ms, split 68 ms
+17:15:27  314 Got to eventHandler
+17:15:27  314 Got to eventHandler
+17:15:27  314 GameManager::run(): Can't keep up! frame_time 33 ms, split 71 ms
+17:15:28  315 Got to eventHandler
+17:15:28  315 Got to eventHandler
+17:15:28  315 GameManager::run(): Can't keep up! frame_time 33 ms, split 172 ms
+17:15:28  316 Got to eventHandler
+17:15:28  316 Got to eventHandler
+17:15:28  316 SceneGraph::removeObject(): error removing object!  Pointer is 09B732C0.
+
+17:15:28  316 Got to eventHandler
+17:15:28  316 GameManager::run(): Can't keep up! frame_time 33 ms, split 51 ms
+17:15:28  317 Got to eventHandler
+17:15:28  317 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:28  318 Got to eventHandler
+17:15:28  318 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:28  319 Got to eventHandler
+17:15:28  319 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:28  320 Got to eventHandler
+17:15:28  320 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:28  321 Got to eventHandler
+17:15:28  321 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:28  322 Got to eventHandler
+17:15:28  322 GameManager::run(): Can't keep up! frame_time 33 ms, split 52 ms
+17:15:28  323 Got to eventHandler
+17:15:28  323 GameManager::run(): Can't keep up! frame_time 33 ms, split 137 ms
+17:15:28  324 Got to eventHandler
+17:15:28  324 GameManager::run(): Can't keep up! frame_time 33 ms, split 49 ms
+17:15:28  325 Got to eventHandler
+17:15:28  325 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:28  326 Got to eventHandler
+17:15:28  326 GameManager::run(): Can't keep up! frame_time 33 ms, split 52 ms
+17:15:28  327 Got to eventHandler
+17:15:28  327 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:28  328 Got to eventHandler
+17:15:28  328 GameManager::run(): Can't keep up! frame_time 33 ms, split 52 ms
+17:15:28  329 Got to eventHandler
+17:15:28  329 GameManager::run(): Can't keep up! frame_time 33 ms, split 57 ms
+17:15:28  330 Got to eventHandler
+17:15:28  330 GameManager::run(): Can't keep up! frame_time 33 ms, split 52 ms
+17:15:28  331 Got to eventHandler
+17:15:28  331 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:29  332 Got to eventHandler
+17:15:29  332 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:29  333 Got to eventHandler
+17:15:29  333 GameManager::run(): Can't keep up! frame_time 33 ms, split 49 ms
+17:15:29  334 Got to eventHandler
+17:15:29  334 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:29  335 Got to eventHandler
+17:15:29  335 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:29  336 Got to eventHandler
+17:15:29  336 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:29  337 Got to eventHandler
+17:15:29  337 GameManager::run(): Can't keep up! frame_time 33 ms, split 51 ms
+17:15:29  338 Got to eventHandler
+17:15:29  338 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:29  339 Got to eventHandler
+17:15:29  339 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:29  340 Got to eventHandler
+17:15:29  340 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:29  341 Got to eventHandler
+17:15:29  341 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:29  342 Got to eventHandler
+17:15:29  342 GameManager::run(): Can't keep up! frame_time 33 ms, split 49 ms
+17:15:29  343 Got to eventHandler
+17:15:29  343 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:29  344 Got to eventHandler
+17:15:29  344 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:29  345 Got to eventHandler
+17:15:29  345 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:29  346 Got to eventHandler
+17:15:29  346 GameManager::run(): Can't keep up! frame_time 33 ms, split 50 ms
+17:15:29  347 Got to eventHandler
+17:15:29  347 GameManager::run(): Can't keep up! frame_time 33 ms, split 51 ms
+17:15:29  348 Got to eventHandler
+17:15:29  348 GameManager::run(): Can't keep up! frame_time 33 ms, split 53 ms
+17:15:29  349 Got to eventHandler
+17:15:29  349 GameManager::run(): Can't keep up! frame_time 33 ms, split 50 ms
+17:15:29  350 Got to eventHandler
+17:15:29  350 GameManager::run(): Can't keep up! frame_time 33 ms, split 55 ms
+17:15:29  351 Got to eventHandler
+17:15:29  351 GameManager::run(): Can't keep up! frame_time 33 ms, split 50 ms
+17:15:29  352 Got to eventHandler
+17:15:29  352 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:30  353 Got to eventHandler
+17:15:30  353 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:30  354 Got to eventHandler
+17:15:30  354 GameManager::run(): Can't keep up! frame_time 33 ms, split 51 ms
+17:15:30  355 Got to eventHandler
+17:15:30  355 GameManager::run(): Can't keep up! frame_time 33 ms, split 51 ms
+17:15:30  356 Got to eventHandler
+17:15:30  356 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:30  357 Got to eventHandler
+17:15:30  357 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:30  358 Got to eventHandler
+17:15:30  358 GameManager::run(): Can't keep up! frame_time 33 ms, split 652 ms
+17:15:30  359 Got to eventHandler
+17:15:30  359 GameManager::run(): Can't keep up! frame_time 33 ms, split 74 ms
+17:15:31  360 Got to eventHandler
+17:15:31  360 GameManager::run(): Can't keep up! frame_time 33 ms, split 54 ms
+17:15:31  361 Got to eventHandler
+17:15:31  361 GameManager::run(): Can't keep up! frame_time 33 ms, split 128 ms
+17:15:31  362 Got to eventHandler
+17:15:31  362 GameManager::run(): Can't keep up! frame_time 33 ms, split 62 ms
+17:15:31  363 Got to eventHandler
+17:15:31  363 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:31  364 Got to eventHandler
+17:15:31  364 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:31  365 Got to eventHandler
+17:15:31  365 GameManager::run(): Can't keep up! frame_time 33 ms, split 49 ms
+17:15:31  366 Got to eventHandler
+17:15:31  366 GameManager::run(): Can't keep up! frame_time 33 ms, split 82 ms
+17:15:31  367 Got to eventHandler
+17:15:31  367 GameManager::run(): Can't keep up! frame_time 33 ms, split 49 ms
+17:15:31  368 Got to eventHandler
+17:15:31  368 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:31  369 Got to eventHandler
+17:15:31  369 GameManager::run(): Can't keep up! frame_time 33 ms, split 68 ms
+17:15:31  370 Got to eventHandler
+17:15:31  370 GameManager::run(): Can't keep up! frame_time 33 ms, split 49 ms
+17:15:31  371 Got to eventHandler
+17:15:31  371 GameManager::run(): Can't keep up! frame_time 33 ms, split 77 ms
+17:15:31  372 Got to eventHandler
+17:15:31  372 GameManager::run(): Can't keep up! frame_time 33 ms, split 67 ms
+17:15:32  373 Got to eventHandler
+17:15:32  373 GameManager::run(): Can't keep up! frame_time 33 ms, split 263 ms
+17:15:32  374 Got to eventHandler
+17:15:32  374 GameManager::run(): Can't keep up! frame_time 33 ms, split 79 ms
+17:15:32  375 Got to eventHandler
+17:15:32  375 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:32  376 Got to eventHandler
+17:15:32  376 GameManager::run(): Can't keep up! frame_time 33 ms, split 66 ms
+17:15:32  377 Got to eventHandler
+17:15:32  377 GameManager::run(): Can't keep up! frame_time 33 ms, split 90 ms
+17:15:32  378 Got to eventHandler
+17:15:32  378 GameManager::run(): Can't keep up! frame_time 33 ms, split 207 ms
+17:15:32  379 Got to eventHandler
+17:15:32  379 GameManager::run(): Can't keep up! frame_time 33 ms, split 90 ms
+17:15:32  380 Got to eventHandler
+17:15:32  380 GameManager::run(): Can't keep up! frame_time 33 ms, split 63 ms
+17:15:32  381 Got to eventHandler
+17:15:32  381 GameManager::run(): Can't keep up! frame_time 33 ms, split 54 ms
+17:15:32  382 Got to eventHandler
+17:15:32  382 GameManager::run(): Can't keep up! frame_time 33 ms, split 51 ms
+17:15:32  383 Got to eventHandler
+17:15:32  383 GameManager::run(): Can't keep up! frame_time 33 ms, split 59 ms
+17:15:33  384 Got to eventHandler
+17:15:33  384 GameManager::run(): Can't keep up! frame_time 33 ms, split 216 ms
+17:15:33  385 Got to eventHandler
+17:15:33  385 GameManager::run(): Can't keep up! frame_time 33 ms, split 78 ms
+17:15:33  386 Got to eventHandler
+17:15:33  386 GameManager::run(): Can't keep up! frame_time 33 ms, split 62 ms
+17:15:33  387 Got to eventHandler
+17:15:33  387 GameManager::run(): Can't keep up! frame_time 33 ms, split 79 ms
+17:15:33  388 Got to eventHandler
+17:15:33  388 GameManager::run(): Can't keep up! frame_time 33 ms, split 74 ms
+17:15:33  389 Got to eventHandler
+17:15:33  389 GameManager::run(): Can't keep up! frame_time 33 ms, split 49 ms
+17:15:33  390 Got to eventHandler
+17:15:33  390 GameManager::run(): Can't keep up! frame_time 33 ms, split 54 ms
+17:15:33  391 Got to eventHandler
+17:15:33  391 GameManager::run(): Can't keep up! frame_time 33 ms, split 50 ms
+17:15:33  392 Got to eventHandler
+17:15:33  392 GameManager::run(): Can't keep up! frame_time 33 ms, split 49 ms
+17:15:33  393 Got to eventHandler
+17:15:33  393 GameManager::run(): Can't keep up! frame_time 33 ms, split 49 ms
+17:15:33  394 Got to eventHandler
+17:15:33  394 GameManager::run(): Can't keep up! frame_time 33 ms, split 65 ms
+17:15:33  395 Got to eventHandler
+17:15:33  395 GameManager::run(): Can't keep up! frame_time 33 ms, split 71 ms
+17:15:33  396 Got to eventHandler
+17:15:33  396 GameManager::run(): Can't keep up! frame_time 33 ms, split 50 ms
+17:15:33  397 Got to eventHandler
+17:15:33  397 GameManager::run(): Can't keep up! frame_time 33 ms, split 56 ms
+17:15:33  398 Got to eventHandler
+17:15:33  398 GameManager::run(): Can't keep up! frame_time 33 ms, split 60 ms
+17:15:33  399 Got to eventHandler
+17:15:33  399 GameManager::run(): Can't keep up! frame_time 33 ms, split 50 ms
+17:15:34  400 Got to eventHandler
+17:15:34  400 GameManager::run(): Can't keep up! frame_time 33 ms, split 51 ms
+17:15:34  401 Got to eventHandler
+17:15:34  401 GameManager::run(): Can't keep up! frame_time 33 ms, split 411 ms
+17:15:34  402 Got to eventHandler
+17:15:34  402 GameManager::run(): Can't keep up! frame_time 33 ms, split 62 ms
+17:15:34  403 Got to eventHandler
+17:15:34  403 SceneGraph::removeObject(): error removing object!  Pointer is 09B74AB0.
+
+17:15:34  403 GameManager::run(): Can't keep up! frame_time 33 ms, split 53 ms
+17:15:34  404 Got to eventHandler
+17:15:34  404 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:34  405 Got to eventHandler
+17:15:34  405 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:34  406 Got to eventHandler
+17:15:34  406 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:34  407 Got to eventHandler
+17:15:34  407 GameManager::run(): Can't keep up! frame_time 33 ms, split 50 ms
+17:15:34  408 Got to eventHandler
+17:15:34  408 GameManager::run(): Can't keep up! frame_time 33 ms, split 50 ms
+17:15:34  409 Got to eventHandler
+17:15:34  409 GameManager::run(): Can't keep up! frame_time 33 ms, split 54 ms
+17:15:34  410 Got to eventHandler
+17:15:34  410 GameManager::run(): Can't keep up! frame_time 33 ms, split 60 ms
+17:15:34  411 Got to eventHandler
+17:15:34  411 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:34  412 Got to eventHandler
+17:15:34  412 GameManager::run(): Can't keep up! frame_time 33 ms, split 50 ms
+17:15:35  413 Got to eventHandler
+17:15:35  413 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:35  414 Got to eventHandler
+17:15:35  414 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:35  415 Got to eventHandler
+17:15:35  415 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:35  416 Got to eventHandler
+17:15:35  416 GameManager::run(): Can't keep up! frame_time 33 ms, split 49 ms
+17:15:35  417 Got to eventHandler
+17:15:35  417 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:35  418 Got to eventHandler
+17:15:35  418 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:35  419 Got to eventHandler
+17:15:35  419 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:35  420 Got to eventHandler
+17:15:35  420 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:35  421 Got to eventHandler
+17:15:35  421 GameManager::run(): Can't keep up! frame_time 33 ms, split 51 ms
+17:15:35  422 Got to eventHandler
+17:15:35  422 GameManager::run(): Can't keep up! frame_time 33 ms, split 49 ms
+17:15:35  423 Got to eventHandler
+17:15:35  423 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:35  424 Got to eventHandler
+17:15:35  424 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:35  425 Got to eventHandler
+17:15:35  425 GameManager::run(): Can't keep up! frame_time 33 ms, split 50 ms
+17:15:35  426 Got to eventHandler
+17:15:35  426 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:35  427 Got to eventHandler
+17:15:35  427 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:35  428 Got to eventHandler
+17:15:35  428 GameManager::run(): Can't keep up! frame_time 33 ms, split 50 ms
+17:15:35  429 Got to eventHandler
+17:15:35  429 GameManager::run(): Can't keep up! frame_time 33 ms, split 50 ms
+17:15:35  430 Got to eventHandler
+17:15:35  430 GameManager::run(): Can't keep up! frame_time 33 ms, split 54 ms
+17:15:35  431 Got to eventHandler
+17:15:35  431 GameManager::run(): Can't keep up! frame_time 33 ms, split 50 ms
+17:15:35  432 Got to eventHandler
+17:15:35  432 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:36  433 Got to eventHandler
+17:15:36  433 GameManager::run(): Can't keep up! frame_time 33 ms, split 49 ms
+17:15:36  434 Got to eventHandler
+17:15:36  434 GameManager::run(): Can't keep up! frame_time 33 ms, split 50 ms
+17:15:36  435 Got to eventHandler
+17:15:36  435 GameManager::run(): Can't keep up! frame_time 33 ms, split 52 ms
+17:15:36  436 Got to eventHandler
+17:15:36  436 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:36  437 Got to eventHandler
+17:15:36  437 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:36  438 Got to eventHandler
+17:15:36  438 GameManager::run(): Can't keep up! frame_time 33 ms, split 49 ms
+17:15:36  439 Got to eventHandler
+17:15:36  439 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:36  440 Got to eventHandler
+17:15:36  440 GameManager::run(): Can't keep up! frame_time 33 ms, split 49 ms
+17:15:36  441 Got to eventHandler
+17:15:36  441 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:36  442 Got to eventHandler
+17:15:36  442 GameManager::run(): Can't keep up! frame_time 33 ms, split 50 ms
+17:15:36  443 Got to eventHandler
+17:15:36  443 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:36  444 Got to eventHandler
+17:15:36  444 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:36  445 Got to eventHandler
+17:15:36  445 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:36  446 Got to eventHandler
+17:15:36  446 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:36  447 Got to eventHandler
+17:15:36  447 GameManager::run(): Can't keep up! frame_time 33 ms, split 51 ms
+17:15:36  448 Got to eventHandler
+17:15:36  448 GameManager::run(): Can't keep up! frame_time 33 ms, split 49 ms
+17:15:36  449 Got to eventHandler
+17:15:36  449 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:36  450 Got to eventHandler
+17:15:36  450 GameManager::run(): Can't keep up! frame_time 33 ms, split 52 ms
+17:15:36  451 Got to eventHandler
+17:15:36  451 GameManager::run(): Can't keep up! frame_time 33 ms, split 53 ms
+17:15:36  452 Got to eventHandler
+17:15:36  452 GameManager::run(): Can't keep up! frame_time 33 ms, split 51 ms
+17:15:36  453 Got to eventHandler
+17:15:36  453 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:37  454 Got to eventHandler
+17:15:37  454 GameManager::run(): Can't keep up! frame_time 33 ms, split 49 ms
+17:15:37  455 Got to eventHandler
+17:15:37  455 GameManager::run(): Can't keep up! frame_time 33 ms, split 59 ms
+17:15:37  456 Got to eventHandler
+17:15:37  456 GameManager::run(): Can't keep up! frame_time 33 ms, split 49 ms
+17:15:37  457 Got to eventHandler
+17:15:37  457 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:37  458 Got to eventHandler
+17:15:37  458 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:37  459 Got to eventHandler
+17:15:37  459 GameManager::run(): Can't keep up! frame_time 33 ms, split 51 ms
+17:15:37  460 Got to eventHandler
+17:15:37  460 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:37  461 Got to eventHandler
+17:15:37  461 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:37  462 Got to eventHandler
+17:15:37  462 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:37  463 Got to eventHandler
+17:15:37  463 GameManager::run(): Can't keep up! frame_time 33 ms, split 50 ms
+17:15:37  464 Got to eventHandler
+17:15:37  464 GameManager::run(): Can't keep up! frame_time 33 ms, split 59 ms
+17:15:37  465 Got to eventHandler
+17:15:37  465 GameManager::run(): Can't keep up! frame_time 33 ms, split 55 ms
+17:15:37  466 Got to eventHandler
+17:15:37  466 GameManager::run(): Can't keep up! frame_time 33 ms, split 49 ms
+17:15:37  467 Got to eventHandler
+17:15:37  467 GameManager::run(): Can't keep up! frame_time 33 ms, split 51 ms
+17:15:37  468 Got to eventHandler
+17:15:37  468 GameManager::run(): Can't keep up! frame_time 33 ms, split 51 ms
+17:15:37  469 Got to eventHandler
+17:15:37  469 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:37  470 Got to eventHandler
+17:15:37  470 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:37  471 Got to eventHandler
+17:15:37  471 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:37  472 Got to eventHandler
+17:15:37  472 GameManager::run(): Can't keep up! frame_time 33 ms, split 51 ms
+17:15:37  473 Got to eventHandler
+17:15:38  473 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:38  474 Got to eventHandler
+17:15:38  474 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:38  475 Got to eventHandler
+17:15:38  475 GameManager::run(): Can't keep up! frame_time 33 ms, split 55 ms
+17:15:38  476 Got to eventHandler
+17:15:38  476 GameManager::run(): Can't keep up! frame_time 33 ms, split 51 ms
+17:15:38  477 Got to eventHandler
+17:15:38  477 GameManager::run(): Can't keep up! frame_time 33 ms, split 49 ms
+17:15:38  478 Got to eventHandler
+17:15:38  478 GameManager::run(): Can't keep up! frame_time 33 ms, split 51 ms
+17:15:38  479 Got to eventHandler
+17:15:38  479 GameManager::run(): Can't keep up! frame_time 33 ms, split 49 ms
+17:15:38  480 Got to eventHandler
+17:15:38  480 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:38  481 Got to eventHandler
+17:15:38  481 GameManager::run(): Can't keep up! frame_time 33 ms, split 49 ms
+17:15:38  482 Got to eventHandler
+17:15:38  482 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:38  483 Got to eventHandler
+17:15:38  483 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:38  484 Got to eventHandler
+17:15:38  484 GameManager::run(): Can't keep up! frame_time 33 ms, split 50 ms
+17:15:38  485 Got to eventHandler
+17:15:38  485 GameManager::run(): Can't keep up! frame_time 33 ms, split 57 ms
+17:15:38  486 Got to eventHandler
+17:15:38  486 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:38  487 Got to eventHandler
+17:15:38  487 GameManager::run(): Can't keep up! frame_time 33 ms, split 50 ms
+17:15:38  488 Got to eventHandler
+17:15:38  488 GameManager::run(): Can't keep up! frame_time 33 ms, split 49 ms
+17:15:38  489 Got to eventHandler
+17:15:38  489 GameManager::run(): Can't keep up! frame_time 33 ms, split 56 ms
+17:15:38  490 Got to eventHandler
+17:15:38  490 GameManager::run(): Can't keep up! frame_time 33 ms, split 50 ms
+17:15:38  491 Got to eventHandler
+17:15:38  491 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:38  492 Got to eventHandler
+17:15:38  492 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:38  493 Got to eventHandler
+17:15:38  493 GameManager::run(): Can't keep up! frame_time 33 ms, split 49 ms
+17:15:39  494 Got to eventHandler
+17:15:39  494 GameManager::run(): Can't keep up! frame_time 33 ms, split 49 ms
+17:15:39  495 Got to eventHandler
+17:15:39  495 GameManager::run(): Can't keep up! frame_time 33 ms, split 50 ms
+17:15:39  496 Got to eventHandler
+17:15:39  496 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:39  497 Got to eventHandler
+17:15:39  497 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:39  498 Got to eventHandler
+17:15:39  498 GameManager::run(): Can't keep up! frame_time 33 ms, split 50 ms
+17:15:39  499 Got to eventHandler
+17:15:39  499 SceneGraph::removeObject(): error removing object!  Pointer is 07B58BC0.
+
+17:15:39  499 Got to eventHandler
+17:15:39  499 GameManager::run(): Can't keep up! frame_time 33 ms, split 58 ms
+17:15:39  500 Got to eventHandler
+17:15:39  500 GameManager::run(): Can't keep up! frame_time 33 ms, split 49 ms
+17:15:39  501 Got to eventHandler
+17:15:39  501 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:39  502 Got to eventHandler
+17:15:39  502 GameManager::run(): Can't keep up! frame_time 33 ms, split 53 ms
+17:15:39  503 Got to eventHandler
+17:15:39  503 GameManager::run(): Can't keep up! frame_time 33 ms, split 49 ms
+17:15:39  504 Got to eventHandler
+17:15:39  504 GameManager::run(): Can't keep up! frame_time 33 ms, split 50 ms
+17:15:39  505 Got to eventHandler
+17:15:39  505 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:39  506 Got to eventHandler
+17:15:39  506 GameManager::run(): Can't keep up! frame_time 33 ms, split 51 ms
+17:15:39  507 Got to eventHandler
+17:15:39  507 GameManager::run(): Can't keep up! frame_time 33 ms, split 52 ms
+17:15:39  508 Got to eventHandler
+17:15:39  508 GameManager::run(): Can't keep up! frame_time 33 ms, split 49 ms
+17:15:39  509 Got to eventHandler
+17:15:39  509 GameManager::run(): Can't keep up! frame_time 33 ms, split 51 ms
+17:15:39  510 Got to eventHandler
+17:15:39  510 GameManager::run(): Can't keep up! frame_time 33 ms, split 52 ms
+17:15:39  511 Got to eventHandler
+17:15:39  511 GameManager::run(): Can't keep up! frame_time 33 ms, split 52 ms
+17:15:39  512 Got to eventHandler
+17:15:39  512 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:39  513 Got to eventHandler
+17:15:39  513 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:40  514 Got to eventHandler
+17:15:40  514 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:40  515 Got to eventHandler
+17:15:40  515 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:40  516 Got to eventHandler
+17:15:40  516 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:40  517 Got to eventHandler
+17:15:40  517 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:40  518 Got to eventHandler
+17:15:40  518 GameManager::run(): Can't keep up! frame_time 33 ms, split 44 ms
+17:15:40  519 Got to eventHandler
+17:15:40  519 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:40  520 Got to eventHandler
+17:15:40  520 GameManager::run(): Can't keep up! frame_time 33 ms, split 49 ms
+17:15:40  521 Got to eventHandler
+17:15:40  521 GameManager::run(): Can't keep up! frame_time 33 ms, split 44 ms
+17:15:40  522 Got to eventHandler
+17:15:40  522 GameManager::run(): Can't keep up! frame_time 33 ms, split 44 ms
+17:15:40  523 Got to eventHandler
+17:15:40  523 GameManager::run(): Can't keep up! frame_time 33 ms, split 44 ms
+17:15:40  524 Got to eventHandler
+17:15:40  524 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:40  525 Got to eventHandler
+17:15:40  525 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:40  526 Got to eventHandler
+17:15:40  526 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:40  527 Got to eventHandler
+17:15:40  527 GameManager::run(): Can't keep up! frame_time 33 ms, split 71 ms
+17:15:40  528 Got to eventHandler
+17:15:40  528 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:40  529 Got to eventHandler
+17:15:40  529 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:40  530 Got to eventHandler
+17:15:40  530 GameManager::run(): Can't keep up! frame_time 33 ms, split 44 ms
+17:15:40  531 Got to eventHandler
+17:15:40  531 GameManager::run(): Can't keep up! frame_time 33 ms, split 43 ms
+17:15:40  532 Got to eventHandler
+17:15:40  532 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:40  533 Got to eventHandler
+17:15:40  533 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:40  534 Got to eventHandler
+17:15:40  534 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:40  535 Got to eventHandler
+17:15:40  535 Got to eventHandler
+17:15:40  535 Got to eventHandler
+17:15:40  535 Got to eventHandler
+17:15:41  535 Got to eventHandler
+17:15:41  535 GameManager::run(): Can't keep up! frame_time 33 ms, split 50 ms
+17:15:41  536 Got to eventHandler
+17:15:41  536 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:41  537 Got to eventHandler
+17:15:41  537 Got to eventHandler
+17:15:41  537 Got to eventHandler
+17:15:41  537 Got to eventHandler
+17:15:41  537 Got to eventHandler
+17:15:41  537 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:41  538 Got to eventHandler
+17:15:41  538 GameManager::run(): Can't keep up! frame_time 33 ms, split 51 ms
+17:15:41  539 Got to eventHandler
+17:15:41  539 Got to eventHandler
+17:15:41  539 Got to eventHandler
+17:15:41  539 Got to eventHandler
+17:15:41  539 Got to eventHandler
+17:15:41  539 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:41  540 Got to eventHandler
+17:15:41  540 GameManager::run(): Can't keep up! frame_time 33 ms, split 44 ms
+17:15:41  541 Got to eventHandler
+17:15:41  541 Got to eventHandler
+17:15:41  541 Got to eventHandler
+17:15:41  541 Got to eventHandler
+17:15:41  541 Got to eventHandler
+17:15:41  541 GameManager::run(): Can't keep up! frame_time 33 ms, split 44 ms
+17:15:41  542 Got to eventHandler
+17:15:41  542 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:41  543 Got to eventHandler
+17:15:41  543 Got to eventHandler
+17:15:41  543 Got to eventHandler
+17:15:41  543 Got to eventHandler
+17:15:41  543 Got to eventHandler
+17:15:41  543 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:41  544 Got to eventHandler
+17:15:41  544 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:41  545 Got to eventHandler
+17:15:41  545 Got to eventHandler
+17:15:41  545 Got to eventHandler
+17:15:41  545 Got to eventHandler
+17:15:41  545 Got to eventHandler
+17:15:41  545 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:41  546 Got to eventHandler
+17:15:41  546 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:41  547 Got to eventHandler
+17:15:41  547 Got to eventHandler
+17:15:41  547 Got to eventHandler
+17:15:41  547 Got to eventHandler
+17:15:41  547 Got to eventHandler
+17:15:41  547 GameManager::run(): Can't keep up! frame_time 33 ms, split 50 ms
+17:15:41  548 Got to eventHandler
+17:15:41  548 GameManager::run(): Can't keep up! frame_time 33 ms, split 44 ms
+17:15:41  549 Got to eventHandler
+17:15:41  549 Got to eventHandler
+17:15:41  549 Got to eventHandler
+17:15:41  549 Got to eventHandler
+17:15:41  549 Got to eventHandler
+17:15:41  549 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:41  550 Got to eventHandler
+17:15:41  550 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:41  551 Got to eventHandler
+17:15:41  551 Got to eventHandler
+17:15:41  551 Got to eventHandler
+17:15:41  551 Got to eventHandler
+17:15:41  551 Got to eventHandler
+17:15:41  551 GameManager::run(): Can't keep up! frame_time 33 ms, split 50 ms
+17:15:41  552 Got to eventHandler
+17:15:41  552 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:41  553 Got to eventHandler
+17:15:41  553 Got to eventHandler
+17:15:41  553 Got to eventHandler
+17:15:41  553 Got to eventHandler
+17:15:41  553 Got to eventHandler
+17:15:41  553 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:41  554 Got to eventHandler
+17:15:41  554 GameManager::run(): Can't keep up! frame_time 33 ms, split 44 ms
+17:15:41  555 Got to eventHandler
+17:15:41  555 Got to eventHandler
+17:15:41  555 Got to eventHandler
+17:15:41  555 Got to eventHandler
+17:15:41  555 Got to eventHandler
+17:15:41  555 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:42  556 Got to eventHandler
+17:15:42  556 GameManager::run(): Can't keep up! frame_time 33 ms, split 56 ms
+17:15:42  557 Got to eventHandler
+17:15:42  557 Got to eventHandler
+17:15:42  557 Got to eventHandler
+17:15:42  557 Got to eventHandler
+17:15:42  557 Got to eventHandler
+17:15:42  557 GameManager::run(): Can't keep up! frame_time 33 ms, split 49 ms
+17:15:42  558 Got to eventHandler
+17:15:42  558 GameManager::run(): Can't keep up! frame_time 33 ms, split 50 ms
+17:15:42  559 Got to eventHandler
+17:15:42  559 Got to eventHandler
+17:15:42  559 Got to eventHandler
+17:15:42  559 Got to eventHandler
+17:15:42  559 Got to eventHandler
+17:15:42  559 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:42  560 Got to eventHandler
+17:15:42  560 GameManager::run(): Can't keep up! frame_time 33 ms, split 53 ms
+17:15:42  561 Got to eventHandler
+17:15:42  561 Got to eventHandler
+17:15:42  561 Got to eventHandler
+17:15:42  561 Got to eventHandler
+17:15:42  561 Got to eventHandler
+17:15:42  561 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:42  562 Got to eventHandler
+17:15:42  562 GameManager::run(): Can't keep up! frame_time 33 ms, split 44 ms
+17:15:42  563 Got to eventHandler
+17:15:42  563 Got to eventHandler
+17:15:42  563 Got to eventHandler
+17:15:42  563 Got to eventHandler
+17:15:42  563 Got to eventHandler
+17:15:42  563 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:42  564 Got to eventHandler
+17:15:42  564 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:42  565 Got to eventHandler
+17:15:42  565 Got to eventHandler
+17:15:42  565 Got to eventHandler
+17:15:42  565 Got to eventHandler
+17:15:42  565 Got to eventHandler
+17:15:42  565 GameManager::run(): Can't keep up! frame_time 33 ms, split 49 ms
+17:15:42  566 Got to eventHandler
+17:15:42  566 GameManager::run(): Can't keep up! frame_time 33 ms, split 44 ms
+17:15:42  567 Got to eventHandler
+17:15:42  567 Got to eventHandler
+17:15:42  567 Got to eventHandler
+17:15:42  567 Got to eventHandler
+17:15:42  567 Got to eventHandler
+17:15:42  567 GameManager::run(): Can't keep up! frame_time 33 ms, split 43 ms
+17:15:42  568 Got to eventHandler
+17:15:42  568 GameManager::run(): Can't keep up! frame_time 33 ms, split 44 ms
+17:15:42  569 Got to eventHandler
+17:15:42  569 Got to eventHandler
+17:15:42  569 Got to eventHandler
+17:15:42  569 Got to eventHandler
+17:15:42  569 Got to eventHandler
+17:15:42  569 GameManager::run(): Can't keep up! frame_time 33 ms, split 50 ms
+17:15:42  570 Got to eventHandler
+17:15:42  570 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:42  571 Got to eventHandler
+17:15:42  571 Got to eventHandler
+17:15:42  571 Got to eventHandler
+17:15:42  571 Got to eventHandler
+17:15:42  571 Got to eventHandler
+17:15:42  571 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:42  572 Got to eventHandler
+17:15:42  572 GameManager::run(): Can't keep up! frame_time 33 ms, split 44 ms
+17:15:42  573 Got to eventHandler
+17:15:42  573 Got to eventHandler
+17:15:42  573 Got to eventHandler
+17:15:42  573 Got to eventHandler
+17:15:42  573 Got to eventHandler
+17:15:42  573 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:42  574 Got to eventHandler
+17:15:42  574 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:42  575 Got to eventHandler
+17:15:42  575 Got to eventHandler
+17:15:42  575 Got to eventHandler
+17:15:42  575 Got to eventHandler
+17:15:42  575 Got to eventHandler
+17:15:42  575 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:42  576 Got to eventHandler
+17:15:42  576 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:42  577 Got to eventHandler
+17:15:42  577 Got to eventHandler
+17:15:42  577 Got to eventHandler
+17:15:42  577 Got to eventHandler
+17:15:42  577 Got to eventHandler
+17:15:42  577 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:43  578 Got to eventHandler
+17:15:43  578 GameManager::run(): Can't keep up! frame_time 33 ms, split 49 ms
+17:15:43  579 Got to eventHandler
+17:15:43  579 Got to eventHandler
+17:15:43  579 Got to eventHandler
+17:15:43  579 Got to eventHandler
+17:15:43  579 Got to eventHandler
+17:15:43  579 GameManager::run(): Can't keep up! frame_time 33 ms, split 49 ms
+17:15:43  580 Got to eventHandler
+17:15:43  580 GameManager::run(): Can't keep up! frame_time 33 ms, split 49 ms
+17:15:43  581 Got to eventHandler
+17:15:43  581 Got to eventHandler
+17:15:43  581 Got to eventHandler
+17:15:43  581 Got to eventHandler
+17:15:43  581 Got to eventHandler
+17:15:43  581 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:43  582 Got to eventHandler
+17:15:43  582 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:43  583 Got to eventHandler
+17:15:43  583 Got to eventHandler
+17:15:43  583 Got to eventHandler
+17:15:43  583 Got to eventHandler
+17:15:43  583 Got to eventHandler
+17:15:43  583 GameManager::run(): Can't keep up! frame_time 33 ms, split 49 ms
+17:15:43  584 Got to eventHandler
+17:15:43  584 GameManager::run(): Can't keep up! frame_time 33 ms, split 43 ms
+17:15:43  585 Got to eventHandler
+17:15:43  585 Got to eventHandler
+17:15:43  585 Got to eventHandler
+17:15:43  585 Got to eventHandler
+17:15:43  585 Got to eventHandler
+17:15:43  585 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:43  586 Got to eventHandler
+17:15:43  586 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:43  587 Got to eventHandler
+17:15:43  587 Got to eventHandler
+17:15:43  587 Got to eventHandler
+17:15:43  587 Got to eventHandler
+17:15:43  587 Got to eventHandler
+17:15:43  587 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:43  588 Got to eventHandler
+17:15:43  588 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:43  589 Got to eventHandler
+17:15:43  589 Got to eventHandler
+17:15:43  589 Got to eventHandler
+17:15:43  589 Got to eventHandler
+17:15:43  589 Got to eventHandler
+17:15:43  589 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:43  590 Got to eventHandler
+17:15:43  590 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:43  591 Got to eventHandler
+17:15:43  591 Got to eventHandler
+17:15:43  591 Got to eventHandler
+17:15:43  591 Got to eventHandler
+17:15:43  591 Got to eventHandler
+17:15:43  591 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:43  592 Got to eventHandler
+17:15:43  592 GameManager::run(): Can't keep up! frame_time 33 ms, split 49 ms
+17:15:43  593 Got to eventHandler
+17:15:43  593 Got to eventHandler
+17:15:43  593 Got to eventHandler
+17:15:43  593 Got to eventHandler
+17:15:43  593 Got to eventHandler
+17:15:43  593 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:43  594 Got to eventHandler
+17:15:43  594 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:43  595 Got to eventHandler
+17:15:43  595 Got to eventHandler
+17:15:43  595 Got to eventHandler
+17:15:43  595 Got to eventHandler
+17:15:43  595 Got to eventHandler
+17:15:43  595 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:43  596 Got to eventHandler
+17:15:43  596 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:43  597 Got to eventHandler
+17:15:43  597 Got to eventHandler
+17:15:43  597 Got to eventHandler
+17:15:43  597 Got to eventHandler
+17:15:43  597 Got to eventHandler
+17:15:43  597 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:43  598 Got to eventHandler
+17:15:43  598 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:43  599 Got to eventHandler
+17:15:43  599 Got to eventHandler
+17:15:43  599 Got to eventHandler
+17:15:43  599 Got to eventHandler
+17:15:44  599 Got to eventHandler
+17:15:44  599 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:44  600 Got to eventHandler
+17:15:44  600 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:44  601 Got to eventHandler
+17:15:44  601 Got to eventHandler
+17:15:44  601 Got to eventHandler
+17:15:44  601 Got to eventHandler
+17:15:44  601 Got to eventHandler
+17:15:44  601 GameManager::run(): Can't keep up! frame_time 33 ms, split 53 ms
+17:15:44  602 Got to eventHandler
+17:15:44  602 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:44  603 Got to eventHandler
+17:15:44  603 Got to eventHandler
+17:15:44  603 Got to eventHandler
+17:15:44  603 Got to eventHandler
+17:15:44  603 Got to eventHandler
+17:15:44  603 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:44  604 Got to eventHandler
+17:15:44  604 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:44  605 Got to eventHandler
+17:15:44  605 Got to eventHandler
+17:15:44  605 Got to eventHandler
+17:15:44  605 Got to eventHandler
+17:15:44  605 Got to eventHandler
+17:15:44  605 GameManager::run(): Can't keep up! frame_time 33 ms, split 44 ms
+17:15:44  606 Got to eventHandler
+17:15:44  606 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:44  607 Got to eventHandler
+17:15:44  607 Got to eventHandler
+17:15:44  607 Got to eventHandler
+17:15:44  607 Got to eventHandler
+17:15:44  607 Got to eventHandler
+17:15:44  607 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:44  608 Got to eventHandler
+17:15:44  608 GameManager::run(): Can't keep up! frame_time 33 ms, split 44 ms
+17:15:44  609 Got to eventHandler
+17:15:44  609 Got to eventHandler
+17:15:44  609 Got to eventHandler
+17:15:44  609 Got to eventHandler
+17:15:44  609 Got to eventHandler
+17:15:44  609 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:44  610 Got to eventHandler
+17:15:44  610 GameManager::run(): Can't keep up! frame_time 33 ms, split 43 ms
+17:15:44  611 Got to eventHandler
+17:15:44  611 Got to eventHandler
+17:15:44  611 Got to eventHandler
+17:15:44  611 Got to eventHandler
+17:15:44  611 Got to eventHandler
+17:15:44  611 GameManager::run(): Can't keep up! frame_time 33 ms, split 49 ms
+17:15:44  612 Got to eventHandler
+17:15:44  612 GameManager::run(): Can't keep up! frame_time 33 ms, split 44 ms
+17:15:44  613 Got to eventHandler
+17:15:44  613 Got to eventHandler
+17:15:44  613 Got to eventHandler
+17:15:44  613 Got to eventHandler
+17:15:44  613 Got to eventHandler
+17:15:44  613 GameManager::run(): Can't keep up! frame_time 33 ms, split 44 ms
+17:15:44  614 Got to eventHandler
+17:15:44  614 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:44  615 Got to eventHandler
+17:15:44  615 Got to eventHandler
+17:15:44  615 Got to eventHandler
+17:15:44  615 Got to eventHandler
+17:15:44  615 Got to eventHandler
+17:15:44  615 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:44  616 Got to eventHandler
+17:15:44  616 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:44  617 Got to eventHandler
+17:15:44  617 Got to eventHandler
+17:15:44  617 Got to eventHandler
+17:15:44  617 Got to eventHandler
+17:15:44  617 Got to eventHandler
+17:15:44  617 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:44  618 Got to eventHandler
+17:15:44  618 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:44  619 Got to eventHandler
+17:15:44  619 Got to eventHandler
+17:15:44  619 Got to eventHandler
+17:15:44  619 Got to eventHandler
+17:15:44  619 Got to eventHandler
+17:15:44  619 GameManager::run(): Can't keep up! frame_time 33 ms, split 44 ms
+17:15:44  620 Got to eventHandler
+17:15:44  620 GameManager::run(): Can't keep up! frame_time 33 ms, split 52 ms
+17:15:44  621 Got to eventHandler
+17:15:44  621 Got to eventHandler
+17:15:44  621 Got to eventHandler
+17:15:44  621 Got to eventHandler
+17:15:45  621 Got to eventHandler
+17:15:45  621 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:45  622 Got to eventHandler
+17:15:45  622 GameManager::run(): Can't keep up! frame_time 33 ms, split 51 ms
+17:15:45  623 Got to eventHandler
+17:15:45  623 Got to eventHandler
+17:15:45  623 Got to eventHandler
+17:15:45  623 Got to eventHandler
+17:15:45  623 Got to eventHandler
+17:15:45  623 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:45  624 Got to eventHandler
+17:15:45  624 GameManager::run(): Can't keep up! frame_time 33 ms, split 51 ms
+17:15:45  625 Got to eventHandler
+17:15:45  625 Got to eventHandler
+17:15:45  625 Got to eventHandler
+17:15:45  625 Got to eventHandler
+17:15:45  625 Got to eventHandler
+17:15:45  625 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:45  626 Got to eventHandler
+17:15:45  626 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:45  627 Got to eventHandler
+17:15:45  627 Got to eventHandler
+17:15:45  627 Got to eventHandler
+17:15:45  627 Got to eventHandler
+17:15:45  627 Got to eventHandler
+17:15:45  627 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:45  628 Got to eventHandler
+17:15:45  628 GameManager::run(): Can't keep up! frame_time 33 ms, split 44 ms
+17:15:45  629 Got to eventHandler
+17:15:45  629 Got to eventHandler
+17:15:45  629 Got to eventHandler
+17:15:45  629 Got to eventHandler
+17:15:45  629 Got to eventHandler
+17:15:45  629 GameManager::run(): Can't keep up! frame_time 33 ms, split 49 ms
+17:15:45  630 Got to eventHandler
+17:15:45  630 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:45  631 Got to eventHandler
+17:15:45  631 Got to eventHandler
+17:15:45  631 Got to eventHandler
+17:15:45  631 Got to eventHandler
+17:15:45  631 Got to eventHandler
+17:15:45  631 GameManager::run(): Can't keep up! frame_time 33 ms, split 43 ms
+17:15:45  632 Got to eventHandler
+17:15:45  632 GameManager::run(): Can't keep up! frame_time 33 ms, split 44 ms
+17:15:45  633 Got to eventHandler
+17:15:45  633 Got to eventHandler
+17:15:45  633 Got to eventHandler
+17:15:45  633 Got to eventHandler
+17:15:45  633 Got to eventHandler
+17:15:45  633 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:45  634 Got to eventHandler
+17:15:45  634 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:45  635 Got to eventHandler
+17:15:45  635 Got to eventHandler
+17:15:45  635 Got to eventHandler
+17:15:45  635 Got to eventHandler
+17:15:45  635 Got to eventHandler
+17:15:45  635 GameManager::run(): Can't keep up! frame_time 33 ms, split 44 ms
+17:15:45  636 Got to eventHandler
+17:15:45  636 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:45  637 Got to eventHandler
+17:15:45  637 Got to eventHandler
+17:15:45  637 Got to eventHandler
+17:15:45  637 Got to eventHandler
+17:15:45  637 Got to eventHandler
+17:15:45  637 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:45  638 Got to eventHandler
+17:15:45  638 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:45  639 Got to eventHandler
+17:15:45  639 Got to eventHandler
+17:15:45  639 Got to eventHandler
+17:15:45  639 Got to eventHandler
+17:15:45  639 Got to eventHandler
+17:15:45  639 GameManager::run(): Can't keep up! frame_time 33 ms, split 44 ms
+17:15:45  640 Got to eventHandler
+17:15:45  640 GameManager::run(): Can't keep up! frame_time 33 ms, split 44 ms
+17:15:45  641 Got to eventHandler
+17:15:45  641 Got to eventHandler
+17:15:45  641 Got to eventHandler
+17:15:45  641 Got to eventHandler
+17:15:45  641 Got to eventHandler
+17:15:45  641 GameManager::run(): Can't keep up! frame_time 33 ms, split 44 ms
+17:15:46  642 Got to eventHandler
+17:15:46  642 GameManager::run(): Can't keep up! frame_time 33 ms, split 50 ms
+17:15:46  643 Got to eventHandler
+17:15:46  643 Got to eventHandler
+17:15:46  643 Got to eventHandler
+17:15:46  643 Got to eventHandler
+17:15:46  643 Got to eventHandler
+17:15:46  643 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:46  644 Got to eventHandler
+17:15:46  644 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:46  645 Got to eventHandler
+17:15:46  645 Got to eventHandler
+17:15:46  645 Got to eventHandler
+17:15:46  645 Got to eventHandler
+17:15:46  645 Got to eventHandler
+17:15:46  645 GameManager::run(): Can't keep up! frame_time 33 ms, split 49 ms
+17:15:46  646 Got to eventHandler
+17:15:46  646 GameManager::run(): Can't keep up! frame_time 33 ms, split 44 ms
+17:15:46  647 Got to eventHandler
+17:15:46  647 Got to eventHandler
+17:15:46  647 Got to eventHandler
+17:15:46  647 Got to eventHandler
+17:15:46  647 Got to eventHandler
+17:15:46  647 GameManager::run(): Can't keep up! frame_time 33 ms, split 50 ms
+17:15:46  648 Got to eventHandler
+17:15:46  648 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:46  649 Got to eventHandler
+17:15:46  649 Got to eventHandler
+17:15:46  649 Got to eventHandler
+17:15:46  649 Got to eventHandler
+17:15:46  649 Got to eventHandler
+17:15:46  649 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:46  650 Got to eventHandler
+17:15:46  650 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:46  651 Got to eventHandler
+17:15:46  651 Got to eventHandler
+17:15:46  651 Got to eventHandler
+17:15:46  651 Got to eventHandler
+17:15:46  651 Got to eventHandler
+17:15:46  651 GameManager::run(): Can't keep up! frame_time 33 ms, split 44 ms
+17:15:46  652 Got to eventHandler
+17:15:46  652 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:46  653 Got to eventHandler
+17:15:46  653 Got to eventHandler
+17:15:46  653 Got to eventHandler
+17:15:46  653 Got to eventHandler
+17:15:46  653 Got to eventHandler
+17:15:46  653 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:46  654 Got to eventHandler
+17:15:46  654 GameManager::run(): Can't keep up! frame_time 33 ms, split 44 ms
+17:15:46  655 Got to eventHandler
+17:15:46  655 Got to eventHandler
+17:15:46  655 Got to eventHandler
+17:15:46  655 Got to eventHandler
+17:15:46  655 Got to eventHandler
+17:15:46  655 GameManager::run(): Can't keep up! frame_time 33 ms, split 44 ms
+17:15:46  656 Got to eventHandler
+17:15:46  656 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:46  657 Got to eventHandler
+17:15:46  657 Got to eventHandler
+17:15:46  657 Got to eventHandler
+17:15:46  657 Got to eventHandler
+17:15:46  657 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:46  658 Got to eventHandler
+17:15:46  658 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:46  659 Got to eventHandler
+17:15:46  659 Got to eventHandler
+17:15:46  659 Got to eventHandler
+17:15:46  659 Got to eventHandler
+17:15:46  659 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:46  660 Got to eventHandler
+17:15:46  660 GameManager::run(): Can't keep up! frame_time 33 ms, split 44 ms
+17:15:46  661 Got to eventHandler
+17:15:46  661 Got to eventHandler
+17:15:46  661 Got to eventHandler
+17:15:46  661 Got to eventHandler
+17:15:46  661 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:46  662 Got to eventHandler
+17:15:46  662 GameManager::run(): Can't keep up! frame_time 33 ms, split 44 ms
+17:15:46  663 Got to eventHandler
+17:15:46  663 Got to eventHandler
+17:15:46  663 Got to eventHandler
+17:15:46  663 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:47  664 Got to eventHandler
+17:15:47  664 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:47  665 Got to eventHandler
+17:15:47  665 Got to eventHandler
+17:15:47  665 Got to eventHandler
+17:15:47  665 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:47  666 Got to eventHandler
+17:15:47  666 GameManager::run(): Can't keep up! frame_time 33 ms, split 55 ms
+17:15:47  667 Got to eventHandler
+17:15:47  667 Got to eventHandler
+17:15:47  667 GameManager::run(): Can't keep up! frame_time 33 ms, split 49 ms
+17:15:47  668 Got to eventHandler
+17:15:47  668 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:47  669 Got to eventHandler
+17:15:47  669 Got to eventHandler
+17:15:47  669 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:47  670 Got to eventHandler
+17:15:47  670 GameManager::run(): Can't keep up! frame_time 33 ms, split 55 ms
+17:15:47  671 Got to eventHandler
+17:15:47  671 Got to eventHandler
+17:15:47  671 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:47  672 Got to eventHandler
+17:15:47  672 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:47  673 Got to eventHandler
+17:15:47  673 GameManager::run(): Can't keep up! frame_time 33 ms, split 44 ms
+17:15:47  674 Got to eventHandler
+17:15:47  674 GameManager::run(): Can't keep up! frame_time 33 ms, split 43 ms
+17:15:47  675 Got to eventHandler
+17:15:47  675 Got to eventHandler
+17:15:47  675 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:47  676 Got to eventHandler
+17:15:47  676 Got to eventHandler
+17:15:47  676 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:47  677 Got to eventHandler
+17:15:47  677 Got to eventHandler
+17:15:47  677 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:47  678 Got to eventHandler
+17:15:47  678 Got to eventHandler
+17:15:47  678 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:47  679 Got to eventHandler
+17:15:47  679 Got to eventHandler
+17:15:47  679 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:47  680 Got to eventHandler
+17:15:47  680 Got to eventHandler
+17:15:47  680 GameManager::run(): Can't keep up! frame_time 33 ms, split 50 ms
+17:15:47  681 Got to eventHandler
+17:15:47  681 Got to eventHandler
+17:15:47  681 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:47  682 Got to eventHandler
+17:15:47  682 Got to eventHandler
+17:15:47  682 GameManager::run(): Can't keep up! frame_time 33 ms, split 44 ms
+17:15:47  683 Got to eventHandler
+17:15:47  683 Got to eventHandler
+17:15:47  683 GameManager::run(): Can't keep up! frame_time 33 ms, split 44 ms
+17:15:47  684 Got to eventHandler
+17:15:47  684 Got to eventHandler
+17:15:47  684 GameManager::run(): Can't keep up! frame_time 33 ms, split 51 ms
+17:15:47  685 Got to eventHandler
+17:15:48  685 Got to eventHandler
+17:15:48  685 GameManager::run(): Can't keep up! frame_time 33 ms, split 53 ms
+17:15:48  686 Got to eventHandler
+17:15:48  686 Got to eventHandler
+17:15:48  686 GameManager::run(): Can't keep up! frame_time 33 ms, split 52 ms
+17:15:48  687 Got to eventHandler
+17:15:48  687 Got to eventHandler
+17:15:48  687 GameManager::run(): Can't keep up! frame_time 33 ms, split 51 ms
+17:15:48  688 Got to eventHandler
+17:15:48  688 Got to eventHandler
+17:15:48  688 GameManager::run(): Can't keep up! frame_time 33 ms, split 55 ms
+17:15:48  689 Got to eventHandler
+17:15:48  689 Got to eventHandler
+17:15:48  689 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:48  690 Got to eventHandler
+17:15:48  690 Got to eventHandler
+17:15:48  690 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:48  691 Got to eventHandler
+17:15:48  691 Got to eventHandler
+17:15:48  691 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:48  692 Got to eventHandler
+17:15:48  692 Got to eventHandler
+17:15:48  692 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:48  693 Got to eventHandler
+17:15:48  693 Got to eventHandler
+17:15:48  693 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:48  694 Got to eventHandler
+17:15:48  694 Got to eventHandler
+17:15:48  694 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:48  695 Got to eventHandler
+17:15:48  695 Got to eventHandler
+17:15:48  695 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:48  696 Got to eventHandler
+17:15:48  696 Got to eventHandler
+17:15:48  696 GameManager::run(): Can't keep up! frame_time 33 ms, split 44 ms
+17:15:48  697 Got to eventHandler
+17:15:48  697 Got to eventHandler
+17:15:48  697 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:48  698 Got to eventHandler
+17:15:48  698 Got to eventHandler
+17:15:48  698 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:48  699 Got to eventHandler
+17:15:48  699 Got to eventHandler
+17:15:48  699 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:48  700 Got to eventHandler
+17:15:48  700 Got to eventHandler
+17:15:48  700 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:48  701 Got to eventHandler
+17:15:48  701 Got to eventHandler
+17:15:48  701 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:48  702 Got to eventHandler
+17:15:48  702 Got to eventHandler
+17:15:48  702 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:48  703 Got to eventHandler
+17:15:48  703 Got to eventHandler
+17:15:48  703 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:48  704 Got to eventHandler
+17:15:48  704 Got to eventHandler
+17:15:48  704 GameManager::run(): Can't keep up! frame_time 33 ms, split 43 ms
+17:15:48  705 Got to eventHandler
+17:15:48  705 Got to eventHandler
+17:15:48  705 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:48  706 Got to eventHandler
+17:15:49  706 Got to eventHandler
+17:15:49  706 GameManager::run(): Can't keep up! frame_time 33 ms, split 56 ms
+17:15:49  707 Got to eventHandler
+17:15:49  707 Got to eventHandler
+17:15:49  707 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:49  708 Got to eventHandler
+17:15:49  708 Got to eventHandler
+17:15:49  708 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:49  709 Got to eventHandler
+17:15:49  709 Got to eventHandler
+17:15:49  709 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:49  710 Got to eventHandler
+17:15:49  710 Got to eventHandler
+17:15:49  710 GameManager::run(): Can't keep up! frame_time 33 ms, split 54 ms
+17:15:49  711 Got to eventHandler
+17:15:49  711 Got to eventHandler
+17:15:49  711 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:49  712 Got to eventHandler
+17:15:49  712 Got to eventHandler
+17:15:49  712 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:49  713 Got to eventHandler
+17:15:49  713 Got to eventHandler
+17:15:49  713 GameManager::run(): Can't keep up! frame_time 33 ms, split 44 ms
+17:15:49  714 Got to eventHandler
+17:15:49  714 Got to eventHandler
+17:15:49  714 GameManager::run(): Can't keep up! frame_time 33 ms, split 43 ms
+17:15:49  715 Got to eventHandler
+17:15:49  715 Got to eventHandler
+17:15:49  715 GameManager::run(): Can't keep up! frame_time 33 ms, split 49 ms
+17:15:49  716 Got to eventHandler
+17:15:49  716 Got to eventHandler
+17:15:49  716 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:49  717 Got to eventHandler
+17:15:49  717 Got to eventHandler
+17:15:49  717 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:49  718 Got to eventHandler
+17:15:49  718 Got to eventHandler
+17:15:49  718 GameManager::run(): Can't keep up! frame_time 33 ms, split 44 ms
+17:15:49  719 Got to eventHandler
+17:15:49  719 Got to eventHandler
+17:15:49  719 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:49  720 Got to eventHandler
+17:15:49  720 Got to eventHandler
+17:15:49  720 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:49  721 Got to eventHandler
+17:15:49  721 Got to eventHandler
+17:15:49  721 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:49  722 Got to eventHandler
+17:15:49  722 Got to eventHandler
+17:15:49  722 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:49  723 Got to eventHandler
+17:15:49  723 Got to eventHandler
+17:15:49  723 GameManager::run(): Can't keep up! frame_time 33 ms, split 44 ms
+17:15:49  724 Got to eventHandler
+17:15:49  724 Got to eventHandler
+17:15:49  724 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:49  725 Got to eventHandler
+17:15:49  725 Got to eventHandler
+17:15:49  725 GameManager::run(): Can't keep up! frame_time 33 ms, split 44 ms
+17:15:49  726 Got to eventHandler
+17:15:49  726 Got to eventHandler
+17:15:49  726 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:49  727 Got to eventHandler
+17:15:49  727 Got to eventHandler
+17:15:49  727 GameManager::run(): Can't keep up! frame_time 33 ms, split 49 ms
+17:15:49  728 Got to eventHandler
+17:15:50  728 Got to eventHandler
+17:15:50  728 GameManager::run(): Can't keep up! frame_time 33 ms, split 53 ms
+17:15:50  729 Got to eventHandler
+17:15:50  729 Got to eventHandler
+17:15:50  729 GameManager::run(): Can't keep up! frame_time 33 ms, split 50 ms
+17:15:50  730 Got to eventHandler
+17:15:50  730 Got to eventHandler
+17:15:50  730 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:50  731 Got to eventHandler
+17:15:50  731 Got to eventHandler
+17:15:50  731 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:50  732 Got to eventHandler
+17:15:50  732 Got to eventHandler
+17:15:50  732 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:50  733 Got to eventHandler
+17:15:50  733 Got to eventHandler
+17:15:50  733 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:50  734 Got to eventHandler
+17:15:50  734 Got to eventHandler
+17:15:50  734 GameManager::run(): Can't keep up! frame_time 33 ms, split 44 ms
+17:15:50  735 Got to eventHandler
+17:15:50  735 Got to eventHandler
+17:15:50  735 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:50  736 Got to eventHandler
+17:15:50  736 Got to eventHandler
+17:15:50  736 GameManager::run(): Can't keep up! frame_time 33 ms, split 44 ms
+17:15:50  737 Got to eventHandler
+17:15:50  737 Got to eventHandler
+17:15:50  737 GameManager::run(): Can't keep up! frame_time 33 ms, split 44 ms
+17:15:50  738 Got to eventHandler
+17:15:50  738 Got to eventHandler
+17:15:50  738 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:50  739 Got to eventHandler
+17:15:50  739 Got to eventHandler
+17:15:50  739 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:50  740 Got to eventHandler
+17:15:50  740 Got to eventHandler
+17:15:50  740 GameManager::run(): Can't keep up! frame_time 33 ms, split 44 ms
+17:15:50  741 Got to eventHandler
+17:15:50  741 Got to eventHandler
+17:15:50  741 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:50  742 Got to eventHandler
+17:15:50  742 Got to eventHandler
+17:15:50  742 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:50  743 Got to eventHandler
+17:15:50  743 Got to eventHandler
+17:15:50  743 GameManager::run(): Can't keep up! frame_time 33 ms, split 49 ms
+17:15:50  744 Got to eventHandler
+17:15:50  744 Got to eventHandler
+17:15:50  744 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:50  745 Got to eventHandler
+17:15:50  745 Got to eventHandler
+17:15:50  745 GameManager::run(): Can't keep up! frame_time 33 ms, split 44 ms
+17:15:50  746 Got to eventHandler
+17:15:50  746 Got to eventHandler
+17:15:50  746 GameManager::run(): Can't keep up! frame_time 33 ms, split 44 ms
+17:15:50  747 Got to eventHandler
+17:15:50  747 Got to eventHandler
+17:15:50  747 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:50  748 Got to eventHandler
+17:15:50  748 Got to eventHandler
+17:15:50  748 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:50  749 Got to eventHandler
+17:15:51  749 Got to eventHandler
+17:15:51  749 GameManager::run(): Can't keep up! frame_time 33 ms, split 49 ms
+17:15:51  750 Got to eventHandler
+17:15:51  750 Got to eventHandler
+17:15:51  750 GameManager::run(): Can't keep up! frame_time 33 ms, split 52 ms
+17:15:51  751 Got to eventHandler
+17:15:51  751 Got to eventHandler
+17:15:51  751 GameManager::run(): Can't keep up! frame_time 33 ms, split 51 ms
+17:15:51  752 Got to eventHandler
+17:15:51  752 Got to eventHandler
+17:15:51  752 GameManager::run(): Can't keep up! frame_time 33 ms, split 52 ms
+17:15:51  753 Got to eventHandler
+17:15:51  753 Got to eventHandler
+17:15:51  753 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:51  754 Got to eventHandler
+17:15:51  754 Got to eventHandler
+17:15:51  754 GameManager::run(): Can't keep up! frame_time 33 ms, split 44 ms
+17:15:51  755 Got to eventHandler
+17:15:51  755 Got to eventHandler
+17:15:51  755 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:51  756 Got to eventHandler
+17:15:51  756 Got to eventHandler
+17:15:51  756 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:51  757 Got to eventHandler
+17:15:51  757 Got to eventHandler
+17:15:51  757 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:51  758 Got to eventHandler
+17:15:51  758 Got to eventHandler
+17:15:51  758 GameManager::run(): Can't keep up! frame_time 33 ms, split 43 ms
+17:15:51  759 Got to eventHandler
+17:15:51  759 Got to eventHandler
+17:15:51  759 GameManager::run(): Can't keep up! frame_time 33 ms, split 44 ms
+17:15:51  760 Got to eventHandler
+17:15:51  760 Got to eventHandler
+17:15:51  760 GameManager::run(): Can't keep up! frame_time 33 ms, split 44 ms
+17:15:51  761 Got to eventHandler
+17:15:51  761 Got to eventHandler
+17:15:51  761 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:51  762 Got to eventHandler
+17:15:51  762 Got to eventHandler
+17:15:51  762 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:51  763 Got to eventHandler
+17:15:51  763 Got to eventHandler
+17:15:51  763 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:51  764 Got to eventHandler
+17:15:51  764 Got to eventHandler
+17:15:51  764 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:51  765 Got to eventHandler
+17:15:51  765 Got to eventHandler
+17:15:51  765 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:51  766 Got to eventHandler
+17:15:51  766 Got to eventHandler
+17:15:51  766 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:51  767 Got to eventHandler
+17:15:51  767 Got to eventHandler
+17:15:51  767 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:51  768 Got to eventHandler
+17:15:51  768 Got to eventHandler
+17:15:51  768 GameManager::run(): Can't keep up! frame_time 33 ms, split 44 ms
+17:15:51  769 Got to eventHandler
+17:15:51  769 Got to eventHandler
+17:15:51  769 GameManager::run(): Can't keep up! frame_time 33 ms, split 44 ms
+17:15:51  770 Got to eventHandler
+17:15:51  770 Got to eventHandler
+17:15:51  770 GameManager::run(): Can't keep up! frame_time 33 ms, split 54 ms
+17:15:51  771 Got to eventHandler
+17:15:52  771 Got to eventHandler
+17:15:52  771 GameManager::run(): Can't keep up! frame_time 33 ms, split 49 ms
+17:15:52  772 Got to eventHandler
+17:15:52  772 Got to eventHandler
+17:15:52  772 GameManager::run(): Can't keep up! frame_time 33 ms, split 51 ms
+17:15:52  773 Got to eventHandler
+17:15:52  773 Got to eventHandler
+17:15:52  773 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:52  774 Got to eventHandler
+17:15:52  774 Got to eventHandler
+17:15:52  774 GameManager::run(): Can't keep up! frame_time 33 ms, split 56 ms
+17:15:52  775 Got to eventHandler
+17:15:52  775 Got to eventHandler
+17:15:52  775 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:52  776 Got to eventHandler
+17:15:52  776 Got to eventHandler
+17:15:52  776 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:52  777 Got to eventHandler
+17:15:52  777 Got to eventHandler
+17:15:52  777 GameManager::run(): Can't keep up! frame_time 33 ms, split 44 ms
+17:15:52  778 Got to eventHandler
+17:15:52  778 Got to eventHandler
+17:15:52  778 GameManager::run(): Can't keep up! frame_time 33 ms, split 44 ms
+17:15:52  779 Got to eventHandler
+17:15:52  779 Got to eventHandler
+17:15:52  779 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:52  780 Got to eventHandler
+17:15:52  780 Got to eventHandler
+17:15:52  780 GameManager::run(): Can't keep up! frame_time 33 ms, split 49 ms
+17:15:52  781 Got to eventHandler
+17:15:52  781 Got to eventHandler
+17:15:52  781 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:52  782 Got to eventHandler
+17:15:52  782 Got to eventHandler
+17:15:52  782 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:52  783 Got to eventHandler
+17:15:52  783 Got to eventHandler
+17:15:52  783 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:52  784 Got to eventHandler
+17:15:52  784 Got to eventHandler
+17:15:52  784 GameManager::run(): Can't keep up! frame_time 33 ms, split 50 ms
+17:15:52  785 Got to eventHandler
+17:15:52  785 Got to eventHandler
+17:15:52  785 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:52  786 Got to eventHandler
+17:15:52  786 Got to eventHandler
+17:15:52  786 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:52  787 Got to eventHandler
+17:15:52  787 Got to eventHandler
+17:15:52  787 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+17:15:52  788 Got to eventHandler
+17:15:52  788 Got to eventHandler
+17:15:52  788 GameManager::run(): Can't keep up! frame_time 33 ms, split 52 ms
+17:15:53  789 Got to eventHandler
+17:15:53  789 Got to eventHandler
+17:15:53  789 GameManager::run(): Can't keep up! frame_time 33 ms, split 205 ms
+17:15:53  790 Got to eventHandler
+17:15:53  790 Got to eventHandler
+17:15:53  790 GameManager::run(): Can't keep up! frame_time 33 ms, split 55 ms
+17:15:53  791 Got to eventHandler
+17:15:53  791 Got to eventHandler
+17:15:53  791 GameManager::run(): Can't keep up! frame_time 33 ms, split 51 ms
+17:15:53  792 Got to eventHandler
+17:15:53  792 Got to eventHandler
+17:15:53  792 GameManager::run(): Can't keep up! frame_time 33 ms, split 49 ms
+17:15:53  793 Got to eventHandler
+17:15:53  793 Got to eventHandler
+17:15:53  793 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:53  794 Got to eventHandler
+17:15:53  794 Got to eventHandler
+17:15:53  794 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+17:15:53  795 Got to eventHandler
+17:15:53  795 Got to eventHandler
+17:15:53  795 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:53  796 Got to eventHandler
+17:15:53  796 Got to eventHandler
+17:15:53  796 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:53  797 Got to eventHandler
+17:15:53  797 Got to eventHandler
+17:15:53  797 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+17:15:53  798 Got to eventHandler
+17:15:53  798 Got to eventHandler
+17:15:53  798 GameManager::run(): Can't keep up! frame_time 33 ms, split 50 ms
+17:15:53  799 Got to eventHandler
+17:15:53  799 Got to eventHandler
+17:15:53  799 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:53  800 Got to eventHandler
+17:15:53  800 Got to eventHandler
+17:15:53  800 GameManager::run(): Can't keep up! frame_time 33 ms, split 44 ms
+17:15:53  801 Got to eventHandler
+17:15:53  801 Got to eventHandler
+17:15:53  801 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+17:15:53  802 Got to eventHandler
+17:15:53  802 Got to eventHandler
+17:15:53  802 GameManager::run(): Can't keep up! frame_time 33 ms, split 66 ms
+17:15:53  803 Got to eventHandler
+17:15:53  803 Got to eventHandler
+17:15:53  803 GameManager::run(): Can't keep up! frame_time 33 ms, split 65 ms
+17:15:53  804 Got to eventHandler
