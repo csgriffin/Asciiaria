@@ -9,6 +9,9 @@
 Tile::Tile(Terrain init_tileType) {
 	df::Object();
 
+	// Set the type of the object.
+	setType("tile");
+
 	// Set the initial type of the tile.
 	tileType = init_tileType;
 
@@ -27,6 +30,26 @@ Tile::Tile(Terrain init_tileType) {
 
 		break;
 
+	case HORIZONTAL:
+
+		// Set solidness to HARD.
+		setSolidness(df::HARD);
+
+		// Get dirt's sprite.
+		setSprite(rm.getSprite("hor_border"));
+
+		break;
+
+	case VERTICAL:
+
+		// Set solidness to HARD.
+		setSolidness(df::HARD);
+
+		// Get dirt's sprite.
+		setSprite(rm.getSprite("vert_border"));
+
+		break;
+
 	case AIR:
 		// Nothing.
 	default:
@@ -38,7 +61,7 @@ Tile::Tile(Terrain init_tileType) {
 	}
 
 	// Register interest in the mouse events.
-	registerInterest(df::MOUSE_EVENT);
+	// registerInterest(df::MOUSE_EVENT);
 
 }
 

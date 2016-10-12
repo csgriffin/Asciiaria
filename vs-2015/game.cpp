@@ -8,6 +8,7 @@
 // Engine includes.
 #include "LogManager.h"
 #include "GameManager.h"
+#include "GraphicsManager.h"
 #include "ResourceManager.h"
 #include "WorldManager.h"
 #include "Box.h"
@@ -26,8 +27,8 @@ void loadResources();
 void populateWorld();
 
 // Constants.
-static const int MAP_WIDTH = 80;
-static const int MAP_HEIGHT = 24;
+static const int MAP_WIDTH = 300;
+static const int MAP_HEIGHT = 50;
 
 int main(int argc, char * argv[])
 {
@@ -42,11 +43,18 @@ int main(int argc, char * argv[])
 		return 0;
 	}
 
+	// Get the world manager.
+	df::WorldManager &world_manager = df::WorldManager::getInstance();
+
 	// Set the log manager to flush after each write.
 	log_manager.setFlush(true);
 
 	// Show the dragonfly splash screen.
 	// df::splash();
+
+	// Set the boundary of the world.
+	df::Box theBox = df::Box::Box(df::Vector(), 300, 50);
+	world_manager.setBoundary(theBox);
 
 	// Load the game resources.
 	loadResources();
@@ -126,7 +134,7 @@ int loadLevel() {
 				p_current_tile->setPosition(df::Vector(column_counter, row_counter));
 
 				// Test code that write the tile type and location. Works as of 10/10/2016.
-				// log_manager.writeLog("This is air at (%f, %f).", p_current_tile->getPosition().getX(), p_current_tile->getPosition().getY());
+				log_manager.writeLog("This is air at (%f, %f).", p_current_tile->getPosition().getX(), p_current_tile->getPosition().getY());
 
 				break;
 
@@ -136,7 +144,19 @@ int loadLevel() {
 				p_current_tile->setPosition(df::Vector(column_counter, row_counter));
 
 				// Test code that write the tile type and location. Works as of 10/10/2016.
-				// log_manager.writeLog("This is dirt at (%f, %f).", p_current_tile->getPosition().getX(), p_current_tile->getPosition().getY());
+				log_manager.writeLog("This is dirt at (%f, %f).", p_current_tile->getPosition().getX(), p_current_tile->getPosition().getY());
+
+				break;
+
+			case 2:
+				p_current_tile = new Tile(VERTICAL);
+				p_current_tile->setPosition(df::Vector(column_counter, row_counter));
+
+				break;
+
+			case 3:
+				p_current_tile = new Tile(HORIZONTAL);
+				p_current_tile->setPosition(df::Vector(column_counter, row_counter));
 
 				break;
 			}
@@ -162,6 +182,10 @@ void loadResources() {
 	// Load the sprite for the villain.
 	resource_manager.loadSprite("sprites/monster-spr.txt", "monster");
 
+	// Load the border sprites.
+	resource_manager.loadSprite("sprites/hor-border-spr.txt", "hor_border");
+	resource_manager.loadSprite("sprites/vert-border-spr.txt", "vert_border");
+
 }
 
 // Create the Hero and Monster.
@@ -171,10 +195,6 @@ void populateWorld() {
 	Hero* ourNobleProtagonist = new Hero;
 	df::WorldManager &w_m = df::WorldManager::getInstance();
 	w_m.setViewFollowing(ourNobleProtagonist);
-
-	df::Box theBox = df::Box::Box(df::Vector(), 1000, 100);
-
-	w_m.setBoundary(theBox);
 
 	// Make the monster. Also, save a pointer to it... For the heck of it.
 	Monster* ourEvilVillain = new Monster(ourNobleProtagonist);

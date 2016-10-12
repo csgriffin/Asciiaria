@@ -20,6 +20,7 @@ Hero::Hero()
 	// Gets each instance of the Dragonfly managers.
 	df::ResourceManager &resource_manager = df::ResourceManager::getInstance();
 	df::LogManager &log_manager = df::LogManager::getInstance();
+	df::WorldManager &world_manager = df::WorldManager::getInstance();
 	df::Sprite *p_temp_sprite;
 
 	// Gets the ship sprite.
@@ -47,8 +48,7 @@ Hero::Hero()
 
 	// Set the object type and starting location.
 	setType("Hero");
-	df::WorldManager &world_manager = df::WorldManager::getInstance();
-	df::Vector p(7, world_manager.getBoundary().getVertical() / 4);
+	df::Vector p(7, 10);
 	setPosition(p);
 
 	// Creates a reticle.

@@ -9,6 +9,8 @@ using namespace std;
 enum Terrain {
 	AIR = 0,
 	DIRT = 1,
+	VERTICAL = 2,
+	HORIZONTAL = 3,
 };
 
 class Tile : public df::Object {
