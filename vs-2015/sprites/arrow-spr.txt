@@ -1,9 +1,9 @@
 frames 2
-width 2
+width 1
 height 1
 color blue
->-
+o
 end
->:
+O
 end
 eof

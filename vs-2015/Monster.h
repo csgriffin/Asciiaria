@@ -22,5 +22,7 @@ public:
 
 	// Prototype for the event handler.
 	int Monster::eventHandler(const df::Event * p_e);
+
+	~Monster();
 };
 

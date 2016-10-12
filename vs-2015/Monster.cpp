@@ -43,8 +43,9 @@ Monster::Monster(Hero* the_hero)
 	// Set the object type and starting location.
 	setType("Monster");
 	df::WorldManager &world_manager = df::WorldManager::getInstance();
-	df::Vector p(15, world_manager.getBoundary().getVertical() / 4);
+	df::Vector p(40, 5);
 	setPosition(p);
+
 
 	registerInterest(df::STEP_EVENT);
 
@@ -57,7 +58,6 @@ int Monster::eventHandler(const df::Event * p_e)
 	df::LogManager &lm = df::LogManager::getInstance();
 	lm.writeLog("Got to eventHandler");
 	if (p_e->getType() == df::STEP_EVENT) {
-
 		const df::EventStep *p_s = dynamic_cast <const df::EventStep *> (p_e);
 		if ((p_s->getStepCount() % 2) == 1) {
 			if (getJumpCount() == 0) {
@@ -74,10 +74,25 @@ int Monster::eventHandler(const df::Event * p_e)
 		}
 		return 1;
 	}
+	if (p_e->getType() == df::COLLISION_EVENT) {
+		const df::EventCollision *p_s = dynamic_cast <const df::EventCollision *> (p_e);
+		if ((p_s->getObject1() == hero) || (p_s->getObject2() == hero)) {
+			df::WorldManager &w_m = df::WorldManager::getInstance();
+			w_m.markForDelete(hero);
+			return 1;
+		}
+	}
 	else {
 		if (Character::eventHandler(p_e) == 1) {
 			return 1;
 		}
 	}
 	return 0;
+}
+
+Monster::~Monster()
+{
+	df::ResourceManager &r_m = df::ResourceManager::getInstance();
+	r_m.getSound("monsterDeath")->play();
+	Object::~Object();
 }
